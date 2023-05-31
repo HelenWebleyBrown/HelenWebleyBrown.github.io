@@ -23,7 +23,7 @@ My current research agenda fit into two broad buckets:
 1.  Consequences of interacting with the [carceral state.]{style="color:teal"}
 2.  How [emerging technologies]{style="color:teal"} are changing the way people experience and perceive the state.
 
-At the intersection of these areas, I am interested in pre-trial electronic monitoring, and the role of tech like ShotSpotter and Flock in policing.
+At the intersection of these areas, I am interested in pre-trial electronic monitoring, and the role of technologies like ShotSpotter and Flock in policing.
 
 I also have a more nascent interest in the rise of [political violence]{style="color:teal"} targeted at elected officials in the US, especially its impact on the career trajectories of gender and racial minorities.
 
