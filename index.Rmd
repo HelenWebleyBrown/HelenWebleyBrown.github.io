@@ -13,24 +13,30 @@ links:
 output:
   postcards::trestles
 ---
- 
+
 ## Hello!
 
 I am a second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods.
 
-My research interests fit into two broad and overlapping buckets: (1) The consequences of the <span style="color:teal">carceral state</span>, and (2) How <span style="color:teal">emerging technologies</span> are changing the way people experience and perceive the state. I also have a more nascent interest in the rise of <span style="color:teal">political violence</span> targeted at elected officials in the US, particularly its impact on the career trajectories of gender and racial minorities.
+My current research agenda fit into two broad buckets:
 
+1.  Consequences of interacting with the [carceral state.]{style="color:teal"}
+2.  How [emerging technologies]{style="color:teal"} are changing the way people experience and perceive the state.
+
+At the intersection of these areas, I am interested in pre-trial electronic monitoring, and the role of tech like ShotSpotter and Flock in policing.
+
+I also have a more nascent interest in the rise of [political violence]{style="color:teal"} targeted at elected officials in the US, especially its impact on the career trajectories of gender and racial minorities.
 
 ## Education
 
-**<span style="color:teal">Massachusetts Institute of Technology</span>** | Cambridge, MA
+[**Massachusetts Institute of Technology**]{style="color:teal"} \| Cambridge, MA
 
-Ph.D. in Political Science |  2022 - Present
+Ph.D. in Political Science \| 2022 - Present
 
-**<span style="color:teal">Washington University</span>** | St. Louis, MO
+[**Washington University**]{style="color:teal"} \| St. Louis, MO
 
-A.B. in Political Science |  2018 - 2022
+A.B. in Political Science \| 2018 - 2022
 
 ## Research
 
-Gupta, A., Wu, V., Webley-Brown, H., King, J., Ho, D. (2023). <span style="color:teal">The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government</span>. ACM FAccT.
+Gupta, A., Wu, V., Webley-Brown, H., King, J., Ho, D. (2023). [The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government]{style="color:teal"}. ACM FAccT.
