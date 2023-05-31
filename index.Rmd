@@ -1,0 +1,36 @@
+---
+title: "Helen Webley-Brown"
+image: "website-pic.jpg"
+links:
+  - label: Resume
+    url: "CV_HWebleyBrown.pdf"
+  - label: Email
+    url: "mailto:helenwb@mit.edu"
+  #- label: SoundCloud
+  #  url: "https://soundcloud.com/"
+  #- label: Twitter
+  #  url: "https://twitter.com/"
+output:
+  postcards::trestles
+---
+ 
+## Hello!
+
+I am a second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods.
+
+My research interests fit into two broad and overlapping buckets: (1) The consequences of the <span style="color:teal">carceral state</span>, and (2) How <span style="color:teal">emerging technologies</span> are changing the way people experience and perceive the state. I also have a more nascent interest in the rise of <span style="color:teal">political violence</span> targeted at elected officials in the US, particularly its impact on the career trajectories of gender and racial minorities.
+
+
+## Education
+
+**<span style="color:teal">Massachusetts Institute of Technology</span>** | Cambridge, MA
+
+Ph.D. in Political Science |  2022 - Present
+
+**<span style="color:teal">Washington University</span>** | St. Louis, MO
+
+A.B. in Political Science |  2018 - 2022
+
+## Research
+
+Gupta, A., Wu, V., Webley-Brown, H., King, J., Ho, D. (2023). <span style="color:teal">The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government</span>. ACM FAccT.
