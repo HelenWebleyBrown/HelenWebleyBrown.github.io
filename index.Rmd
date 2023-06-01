@@ -39,4 +39,4 @@ A.B. in Political Science \| 2018 - 2022
 
 ## Research
 
-Gupta, A., Wu, V., Webley-Brown, H., King, J., Ho, D. (2023). [The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government]{style="color:teal"}. ACM FAccT.
+Gupta, A., Wu, V., Webley-Brown, H., King, J., Ho, D. (2023). [The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government](https://www.dropbox.com/s/57tndd2dzg919zb/Gupta_Privacy.pdf?dl=0){style="color:teal"}. ACM Conference on Fairness, Accountability, and Transparency (FAccT).
