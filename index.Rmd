@@ -21,13 +21,13 @@ I am a second-year Ph.D. student in Political Science at MIT with specialization
 My current research agenda fits into two broad buckets:
 
 1.  Socio-political effects of interacting with the [criminal legal system.]{style="color:teal"}
-2.  How [emerging technologies]{style="color:teal"} are changing the way people experience and perceive the state.
+2.  How [emerging technologies]{style="color:teal"} change the way people experience and perceive the state.
 
-At the intersection of this, I am interested in pre-trial electronic monitoring, and the role of tools like ShotSpotter and Flock in policing.
+At the intersection of this, I am interested in pre-trial electronic monitoring, and the role of tools like ShotSpotter and Flock in policing. 
 
-I also have a more nascent interest in how [political violence]{style="color:teal"} targeted at elected officials impacts representation of gender and racial minorities.
+I also have a nascent interest in how political violence targeted at elected officials impacts representation of gender and racial minorities.
 
-Although the US is my site of study, I was born and raised in London, England. I made my way across the pond via the US-UK Fulbright Commission's wonderful [Sutton Trust US Programme](https://us.suttontrust.com/){style="color:teal"}.
+Although the US is my site of study, I was born and raised in London, England. I made my way across the pond via the US-UK Fulbright Commission's wonderful [*Sutton Trust US Programme*](https://us.suttontrust.com/){style="color:firebrick"}.
 
 ## Education
 
@@ -41,4 +41,4 @@ A.B. in Political Science \| 2018 - 2022
 
 ## Research
 
-Gupta, A., Wu, V., Webley-Brown, H., King, J., Ho, D. (2023). [The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government](https://www.dropbox.com/s/57tndd2dzg919zb/Gupta_Privacy.pdf?dl=0){style="color:indianred"}. ACM Conference on Fairness, Accountability, and Transparency (FAccT).
+Gupta, A., Wu, V., **Webley-Brown, H.**, King, J., Ho, D. (2023). [*The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government*](https://www.dropbox.com/s/57tndd2dzg919zb/Gupta_Privacy.pdf?dl=0){style="color:firebrick"}. ACM Conference on Fairness, Accountability, and Transparency (FAccT).
