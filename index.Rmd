@@ -27,7 +27,7 @@ At the intersection of this, I am interested in pre-trial electronic monitoring,
 
 I also have a nascent interest in how political violence targeted at elected officials impacts the representation of gender and racial minorities.
 
-Although my research focuses on the US, I was born and raised in London, England. I made my way across the pond via the US-UK Fulbright Commission's wonderful [*Sutton Trust US Programme*](https://us.suttontrust.com/){style="color:firebrick"}.
+Although my research focuses on the US, I was born and raised in London, England. I made my way across the pond via the US-UK Fulbright Commission's wonderful [*Sutton Trust US Programme*](https://us.suttontrust.com/){style="color:lightseagreen"}.
 
 ## Education
 
@@ -41,4 +41,4 @@ A.B. in Political Science \| 2018 - 2022
 
 ## Research
 
-Gupta, A., Wu, V., **Webley-Brown, H.**, King, J., Ho, D. (2023). [*The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government*](https://www.dropbox.com/s/57tndd2dzg919zb/Gupta_Privacy.pdf?dl=0){style="color:firebrick"}. ACM Conference on Fairness, Accountability, and Transparency (FAccT).
+Gupta, A., Wu, V., **Webley-Brown, H.**, King, J., Ho, D. (2023). [*The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government*](https://www.dropbox.com/s/57tndd2dzg919zb/Gupta_Privacy.pdf?dl=0){style="color:lightseagreen"}. ACM Conference on Fairness, Accountability, and Transparency (FAccT).
