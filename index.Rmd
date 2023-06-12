@@ -43,4 +43,4 @@ A.B. in Political Science \| 2018 - 2022
 
 Gupta, A., Wu, V., **Webley-Brown, H.**, King, J., Ho, D. (2023). [*The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government*](https://dl.acm.org/doi/10.1145/3593013.3594015){style="color:#005354"}. ACM Conference on Fairness, Accountability, and Transparency (FAccT).
 
-- **Best Paper Award** at FAccT 2023 *(given to 6 out of 150 papers)*
+- **Best Paper Award** at FAccT 2023.
