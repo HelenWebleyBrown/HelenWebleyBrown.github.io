@@ -16,7 +16,7 @@ output:
 
 ## Hello!
 
-I am a second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods.
+I am a rising second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods.
 
 My current research agenda fits into two broad buckets:
 
