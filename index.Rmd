@@ -16,7 +16,7 @@ output:
 
 ## Hello!
 
-I am a rising second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods.
+I am a second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods.
 
 My current research agenda fits into two broad buckets:
 
@@ -41,6 +41,6 @@ A.B. in Political Science \| 2018 - 2022
 
 ## Research
 
-King, J., Ho, D., Gupta, A., Wu, V., **Webley-Brown, H**. (2023). [*The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government*](https://dl.acm.org/doi/10.1145/3593013.3594015){style="color:#005354"}. ACM Conference on Fairness, Accountability, and Transparency (FAccT).
+Gupta, A., Wu, V., **Webley-Brown, H**., King, J., Ho, D. (2023). [*The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government*](https://dl.acm.org/doi/10.1145/3593013.3594015){style="color:#005354"}. ACM Conference on Fairness, Accountability, and Transparency (FAccT).
 
 - **Best Paper Award** at FAccT 2023.
