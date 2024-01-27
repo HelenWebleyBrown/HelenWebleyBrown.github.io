@@ -2,7 +2,7 @@ name: "."
 title: "Helen Webley-Brown"
 description: |
   Helen Webley-Brown
-output_dir: "docs"
+output_dir: "."
 navbar:
   right:
     - icon: fas fa-house-chimney
