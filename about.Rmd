@@ -1,0 +1,17 @@
+---
+title: "Helen Webley-Brown"
+image: "website-pic.jpg"
+output:
+  postcards::trestles
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+I am a second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. Although my research focuses on the US, I grew up in London, England. I moved across the pond for college via the US-UK Fulbright Commission's wonderful [*Sutton Trust US Programme*](https://us.suttontrust.com/){style="color:#005354"}. I graduated from Washington University in St. Louis with a BA in Political Science in 2022.
+
+My current research agenda fits into two broad buckets:
+
+1.  Socio-political effects of interacting with the [criminal legal system]{style="color:teal"}.
+2.  How [emerging technologies]{style="color:teal"} change the way people experience and perceive the state.
+
+At the intersection of this, I am interested in pre-trial electronic monitoring, and the role of tools like ShotSpotter and Flock in policing. I also have a nascent interest in how political violence targeted at elected officials impacts the representation of gender and racial minorities.

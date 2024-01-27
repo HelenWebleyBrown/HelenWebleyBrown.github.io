@@ -1,0 +1,22 @@
+---
+title: "Research"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Gupta, A., Wu, V., **Webley-Brown, H**., King, J., Ho, D. (2023). [*The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government*](https://dl.acm.org/doi/10.1145/3593013.3594015){style="color:#005354"}. ACM Conference on Fairness, Accountability, and Transparency (FAccT).
+
+[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:#005354"} *Best Paper Award* – FAccT 2023
+
+[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:#005354"} *Student Paper Award* – Privacy Papers for Policymakers [*(PPPM)*](https://fpf.org/blog/this-years-must-read-privacy-papers-to-be-honored-at-washington-dc-event/){style="color:#005354"}; Future of Privacy Forum
+
+[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:#005354"} [*Policy Brief*](https://hai.stanford.edu/policy-brief-privacy-bias-trade){style="color:#005354"} -- Institute on Human-Centered
+Artificial Intelligence (HAI)
+
+
+
+
+

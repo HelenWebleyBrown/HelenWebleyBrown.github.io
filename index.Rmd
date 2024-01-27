@@ -1,0 +1,30 @@
+---
+title: "Helen Webley-Brown"
+image: "website-pic.jpg"
+links:
+  - label: '`r fontawesome::fa("fas fa-file-lines", height = "25px")`'
+    url: "CV_HWebleyBrown.pdf"
+  - label: '`r fontawesome::fa("fas fa-envelope", height = "25px")`'
+    url: "mailto:helenwb@mit.edu"
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "https://www.linkedin.com/in/helenwebley-brown/"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+```{r, echo = FALSE}
+fontawesome::fa_html_dependency()
+```
+
+Hello! I am a second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. My research focuses on the U.S. criminal legal system and the socio-political effects of adopting AI for government services.
