@@ -7,7 +7,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-I am a second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. Although my research focuses on the US, I grew up in London, England. I moved across the pond for college via the US-UK Fulbright Commission's wonderful [*Sutton Trust US Programme*](https://us.suttontrust.com/){style="color:#005354"}. In 2022, I graduated from Washington University in St. Louis with a BA in Political Science.
+I am a second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. In 2022, I graduated from Washington University in St. Louis with a BA in Political Science. Although my research focuses on the US, I grew up in London, England. I moved across the pond for college via the US-UK Fulbright Commission's wonderful [*Sutton Trust US Programme*](https://us.suttontrust.com/){style="color:#005354"}.
 
 My current research agenda fits into two broad buckets:
 
