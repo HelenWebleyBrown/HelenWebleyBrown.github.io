@@ -27,4 +27,4 @@ knitr::opts_chunk$set(echo = FALSE)
 fontawesome::fa_html_dependency()
 ```
 
-Hello! I am a second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. My research focuses on the U.S. criminal legal system and the use of AI in state/local government services.
+Hello! I am a second-year Ph.D. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. My research focuses on carceral politics and the use of AI in state/local government services.
