@@ -12,6 +12,6 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: https://www.dropbox.com/s/ag29gnr0bt503gw/CV_HWebleyBrown.pdf?dl=0
+      href: https://www.dropbox.com/scl/fi/omfqgwa4nydzbph3qi32n/CV_HWebleyBrown.pdf?rlkey=i8ld05y8b3it4yejygsa1ymf6&dl=0
 output: distill::distill_article
 theme: theme.css
