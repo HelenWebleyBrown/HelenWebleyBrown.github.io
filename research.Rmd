@@ -13,7 +13,7 @@ Gupta, A., Wu, V., **Webley-Brown, H**., King, J., Ho, D. (2023). [*The Privacy-
 
 [`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:#005354"} *Best Paper Award* – FAccT 2023
 
-[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:#005354"} *Student Paper Award* – Privacy Papers for Policymakers [*(PPPM)*](https://fpf.org/blog/this-years-must-read-privacy-papers-to-be-honored-at-washington-dc-event/){style="color:#005354"} ; Future of Privacy Forum
+[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:#005354"} *Student Paper Award* – Privacy Papers for Policymakers [*(PPPM)*](https://fpf.org/wp-content/uploads/2024/02/FPF-PPPM-2024-Digest-FINAL-PRINT-R3-singles-1.pdf){style="color:#005354"} ; Future of Privacy Forum
 
 [`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:#005354"} [*Policy Brief*](https://hai.stanford.edu/policy-brief-privacy-bias-trade){style="color:#005354"} -- Institute on Human-Centered
 Artificial Intelligence *(HAI)*
