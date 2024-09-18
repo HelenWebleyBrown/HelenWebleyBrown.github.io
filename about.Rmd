@@ -7,13 +7,13 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-I am a final-year S.M. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. I am also an affiliate of the [*Center for American Political Studies*](https://caps.gov.harvard.edu/){style="color:#005354"} at Harvard University. In 2022, I graduated from Washington University in St. Louis with a BA in Political Science. 
+I am a final-year S.M. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. I am also an affiliate of the [*Center for American Political Studies*](https://caps.gov.harvard.edu/){style="color:#005354"} at Harvard University. In 2022, I graduated from Washington University in St. Louis with a BA in Political Science. This cycle, I will be re-applying to PhD programs.
 
-Although my research focuses on the US, I grew up in London, England. I moved across the pond for college via the US-UK Fulbright Commission's wonderful [*Sutton Trust US Programme*](https://us.suttontrust.com/){style="color:#005354"}.
+Although my research focuses on the US, I grew up in London, England. I moved across the pond for college via the US-UK Fulbright Commission's wonderful [*Sutton Trust US Programme*](https://us.suttontrust.com/){style="color:#005354"}. My personal background has greatly shaped my commitment to inclusive pedagogy, social mobility, and widening access to higher education.
 
-My current research agenda fits into two broad buckets:
+Currently, my research agenda fits into two broad buckets:
 
-1.  Socio-political effects of interacting with the [criminal legal system]{style="color:teal"}.
+1.  The socio-political effects of interacting with authoritarian institutions, focusing on the [criminal legal system]{style="color:teal"} and [public housing authorities]{style="color:teal"}.
 2.  How [emerging technologies]{style="color:teal"} change the way people experience and perceive the state.
 
-At the intersection of this, I am interested in pre-trial electronic monitoring, and the role of tools like ShotSpotter and Flock in policing. I also have a nascent interest in how political violence targeted at elected officials impacts the representation of gender and racial minorities.
+At the intersection of this, I am interested in the participatory implications of tools like pretrial electronic monitors and ShotSpotter in policing, and Landlord Tech in subsidized housing. Parallel to studies of demobilization, I also ask what fosters successful collective action in these contentious spaces? That is, under what circumstances can marginalized communities carve out democratic practices within the authoritarian systems that control, surveil, and punish them?
