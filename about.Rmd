@@ -7,7 +7,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-I am a final-year S.M. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. I am also an affiliate of the [*Center for American Political Studies*](https://caps.gov.harvard.edu/){style="color:#005354"} at Harvard University. In 2022, I graduated from Washington University in St. Louis with a A.B. in Political Science. This cycle, I will be applying to Ph.D. programs for fall 2025.
+I am a final-year S.M. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. I am also an affiliate of the [*Center for American Political Studies*](https://caps.gov.harvard.edu/){style="color:#005354"} at Harvard University. In 2022, I graduated from Washington University in St. Louis with a A.B. in Political Science. This cycle, I will be applying to Ph.D. programs for Fall 2025.
 
 Although my research focuses on the US, I grew up in London, England. I moved across the pond for college via the US-UK Fulbright Commission's wonderful [*Sutton Trust US Programme*](https://us.suttontrust.com/){style="color:#005354"}. My personal background has greatly shaped my commitment to inclusive pedagogy, social mobility, and widening access to higher education.
 
