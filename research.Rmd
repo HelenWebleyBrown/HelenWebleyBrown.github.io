@@ -20,6 +20,10 @@ Artificial Intelligence *(HAI)*
 
 ## Works in Progess
 
-Democracy Under Surveillance: The Effect of Pretrial Electronic Monitoring on Voting Behavior
+Democracy Under Surveillance: The Effect of Pretrial Electronic Monitoring on Voting Behavior.
 
 We’ve Got Democracy at Home: Resident Council Emergence in Public Housing Developments.
+
+Don’t Shoot The Messenger: Can Source Attribution Moderate the Effect of Police Violence News on Trust in Police?
+
+Why Watch The Watchers? Frame Utilization In Community Control Over Police Surveillance (CCOPS) Legislation.
