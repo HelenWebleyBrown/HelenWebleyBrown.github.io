@@ -13,7 +13,7 @@ Although my research focuses on the US, I grew up in London, England. I moved ac
 
 Currently, my research agenda fits into two broad buckets:
 
-1.  The socio-political effects of interacting with institutions of social control, focusing on the [criminal legal system]{style="color:teal"} and [public housing authorities]{style="color:teal"}.
+1.  The socio-political effects of interacting with local social control institutions, focusing on the [criminal legal system]{style="color:teal"} and [public housing authorities]{style="color:teal"}.
 2.  How [emerging technologies]{style="color:teal"} change the way people experience and perceive the state.
 
 At the intersection of this, I am interested in the participatory implications of tools like pretrial electronic monitors and ShotSpotter in policing, and Landlord Tech in subsidized housing. Parallel to studies of demobilization, I also ask what fosters successful collective action in these contentious spaces? That is, under what conditions can marginalized communities carve out democratic practices within systems that control, surveil, or punish them? I have two early-stage projects that grapple with this question: one uses topic modelling to analyze Community Control Over Police Surveillance (CCOPS) legislation, while the other leverages a novel dataset to examine resident council emergence in public housing developments.
