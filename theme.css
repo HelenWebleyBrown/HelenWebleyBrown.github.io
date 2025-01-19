@@ -48,7 +48,7 @@ d-byline {
 /*-- ARTICLE TABLE OF CONTENTS --*/
 .d-contents {
   --heading-size:    18px;
-  --contents-size:   13px;
+  --contents-size:   14px;
 }
 
 /*-- ARTICLE APPENDIX --*/
@@ -91,7 +91,7 @@ d-code {
 /* the code below will change output chunk properties */
 d-article pre { 
   border-radius: 5px; /* rounded chunk window*/
-  font-size: 11px; /* output text size */
+  font-size: 12px; /* output text size */
   color: black; /* output text colour */
   background-color: #F5F5F5; /* output chunk background colour */
   padding: 5px 5px 5px 18px; /* top,right,bottom,left padding values */
