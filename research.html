@@ -2189,12 +2189,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   @import url('https://fonts.googleapis.com/css2?family=Fira+Code');
   @import url('https://fonts.googleapis.com/css2?family=Montserrat');
   @import url('https://fonts.googleapis.com/css2?family=Poppins');
-
-
+  @import url('https://fonts.googleapis.com/css2?family=Alata');
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
 
   html {
     /*-- Main font sizes --*/
-    --title-size:      50px;
+    --title-size:      40px;
     --body-size:       1.05rem;
     --code-size:       14px;
     --aside-size:      12px;
@@ -2206,10 +2206,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --aside-color:     rgba(0, 0, 0, 0.6);
     --fig-cap-color:   rgba(0, 0, 0, 0.6);
     /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    'Roboto', sans-serif;         /* edited */
+    --heading-font:    'Alata', sans-serif;         /* edited */
     --mono-font:       'Fira Code', monospace;     /* edited */
-    --body-font:       'Roboto', sans-serif;         /* edited */
-    --navbar-font:     'Lato', sans-serif;   /* edited */
+    --body-font:       'Roboto Flex', sans-serif;         /* edited */
+    --navbar-font:     'Alata', sans-serif;   /* edited */
   }
 
   /*-- ARTICLE METADATA --*/
@@ -2238,16 +2238,16 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* These properties only apply to Distill sites and blogs  */
 
   .distill-site-header {
-    --title-size:       18px;
+    --title-size:       15px;
     --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        18px;
+    --text-size:        15px;
     --hover-color:      white;
     --bkgd-color:       #0D5257;
   }
 
   .distill-site-footer {
     --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
+    --text-size:        12px;
     --hover-color:      white;
     --bkgd-color:       #0F2E3D;
   }
@@ -2266,7 +2266,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* the code below will change output chunk properties */
   d-article pre { 
     border-radius: 5px; /* rounded chunk window*/
-    font-size: 12px; /* output text size */
+    font-size: 11px; /* output text size */
     color: black; /* output text colour */
     background-color: #F5F5F5; /* output chunk background colour */
     padding: 5px 5px 5px 18px; /* top,right,bottom,left padding values */
@@ -2290,16 +2290,29 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article p code {
     color: #383838;
     background: rgba(141,206,164,.35);
-    font-weight: 400;
+    font-weight: 200;
     font-size: 0.9em;
   }
 
 
   /* Change link appearance */
   d-article a {
-      border-bottom: 2px solid rgba(141,206,164, 0.6);
+      border-bottom: none;
       text-decoration: none;
-  }</style>
+  }
+
+  /* Change bullets */
+  ul > li::marker {
+    font-size: 1.125em;
+    color: #005354;
+    margin-bottom: 1px;
+  }
+
+  <style>
+    li {
+      font-weight: 200;
+    }
+  </style></style>
   <style type="text/css">
   /* base style */
 
@@ -2491,6 +2504,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </a>
 <a href="about.html">About</a>
 <a href="research.html">Research</a>
+<a href="teach.html">Teaching</a>
 <a href="https://www.dropbox.com/scl/fi/omfqgwa4nydzbph3qi32n/CV_HWebleyBrown.pdf?rlkey=i8ld05y8b3it4yejygsa1ymf6&amp;dl=0">CV</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
@@ -2510,13 +2524,28 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<h2 id="conference-papers">Conference Papers</h2>
-<p>Gupta, A., Wu, V., <strong>Webley-Brown, H</strong>., King, J., Ho, D. (2023). <a href="https://dl.acm.org/doi/10.1145/3593013.3594015" style="color:#005354"><em>The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government</em></a>. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’23).</p>
-<p><span style="color:#005354"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:12px;width:12px;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M208 32c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32V172.9l122-70.4c15.3-8.8 34.9-3.6 43.7 11.7l16 27.7c8.8 15.3 3.6 34.9-11.7 43.7L352 256l122 70.4c15.3 8.8 20.5 28.4 11.7 43.7l-16 27.7c-8.8 15.3-28.4 20.6-43.7 11.7L304 339.1V480c0 17.7-14.3 32-32 32H240c-17.7 0-32-14.3-32-32V339.1L86 409.6c-15.3 8.8-34.9 3.6-43.7-11.7l-16-27.7c-8.8-15.3-3.6-34.9 11.7-43.7L160 256 38 185.6c-15.3-8.8-20.5-28.4-11.7-43.7l16-27.7C51.1 98.8 70.7 93.6 86 102.4l122 70.4V32z"/></svg></span> <em>Best Paper Award</em> – FAccT 2023</p>
-<p><span style="color:#005354"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:12px;width:12px;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M208 32c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32V172.9l122-70.4c15.3-8.8 34.9-3.6 43.7 11.7l16 27.7c8.8 15.3 3.6 34.9-11.7 43.7L352 256l122 70.4c15.3 8.8 20.5 28.4 11.7 43.7l-16 27.7c-8.8 15.3-28.4 20.6-43.7 11.7L304 339.1V480c0 17.7-14.3 32-32 32H240c-17.7 0-32-14.3-32-32V339.1L86 409.6c-15.3 8.8-34.9 3.6-43.7-11.7l-16-27.7c-8.8-15.3-3.6-34.9 11.7-43.7L160 256 38 185.6c-15.3-8.8-20.5-28.4-11.7-43.7l16-27.7C51.1 98.8 70.7 93.6 86 102.4l122 70.4V32z"/></svg></span> <em>Student Paper Award</em> – Privacy Papers for Policymakers <a href="https://fpf.org/wp-content/uploads/2024/02/FPF-PPPM-2024-Digest-FINAL-PRINT-R3-singles-1.pdf" style="color:#005354"><em>(PPPM)</em></a> ; Future of Privacy Forum</p>
-<p><span style="color:#005354"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:12px;width:12px;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M208 32c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32V172.9l122-70.4c15.3-8.8 34.9-3.6 43.7 11.7l16 27.7c8.8 15.3 3.6 34.9-11.7 43.7L352 256l122 70.4c15.3 8.8 20.5 28.4 11.7 43.7l-16 27.7c-8.8 15.3-28.4 20.6-43.7 11.7L304 339.1V480c0 17.7-14.3 32-32 32H240c-17.7 0-32-14.3-32-32V339.1L86 409.6c-15.3 8.8-34.9 3.6-43.7-11.7l-16-27.7c-8.8-15.3-3.6-34.9 11.7-43.7L160 256 38 185.6c-15.3-8.8-20.5-28.4-11.7-43.7l16-27.7C51.1 98.8 70.7 93.6 86 102.4l122 70.4V32z"/></svg></span> <a href="https://hai.stanford.edu/policy-brief-privacy-bias-trade" style="color:#005354"><em>Policy Brief</em></a> – Institute on Human-Centered
-Artificial Intelligence <em>(HAI)</em></p>
-<h2 id="works-in-progess">Works in Progess</h2>
+<style>
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.2; /* Adjust the value as needed */
+  }
+</style>
+<style>
+  h1 {
+    font-size: 28px; /* Adjust size for <h1> */
+  }
+</style>
+<style>
+  li {
+    line-height: 1; /* Tightens spacing */
+  }
+</style>
+<h1 id="conference-papers"><span style="color:#005354"><strong>Conference Papers</strong></span></h1>
+<p>Gupta, A., Wu, V., <strong>Webley-Brown, H</strong>., King, J., Ho, D. (2023). <a href="https://dl.acm.org/doi/10.1145/3593013.3594015" style="color:teal"><em>The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government</em></a>. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’23).</p>
+<p><span style="color:teal"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:12px;width:12px;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M208 32c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32V172.9l122-70.4c15.3-8.8 34.9-3.6 43.7 11.7l16 27.7c8.8 15.3 3.6 34.9-11.7 43.7L352 256l122 70.4c15.3 8.8 20.5 28.4 11.7 43.7l-16 27.7c-8.8 15.3-28.4 20.6-43.7 11.7L304 339.1V480c0 17.7-14.3 32-32 32H240c-17.7 0-32-14.3-32-32V339.1L86 409.6c-15.3 8.8-34.9 3.6-43.7-11.7l-16-27.7c-8.8-15.3-3.6-34.9 11.7-43.7L160 256 38 185.6c-15.3-8.8-20.5-28.4-11.7-43.7l16-27.7C51.1 98.8 70.7 93.6 86 102.4l122 70.4V32z"/></svg></span> Best Paper Award – FAccT 2023</p>
+<p><span style="color:teal"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:12px;width:12px;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M208 32c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32V172.9l122-70.4c15.3-8.8 34.9-3.6 43.7 11.7l16 27.7c8.8 15.3 3.6 34.9-11.7 43.7L352 256l122 70.4c15.3 8.8 20.5 28.4 11.7 43.7l-16 27.7c-8.8 15.3-28.4 20.6-43.7 11.7L304 339.1V480c0 17.7-14.3 32-32 32H240c-17.7 0-32-14.3-32-32V339.1L86 409.6c-15.3 8.8-34.9 3.6-43.7-11.7l-16-27.7c-8.8-15.3-3.6-34.9 11.7-43.7L160 256 38 185.6c-15.3-8.8-20.5-28.4-11.7-43.7l16-27.7C51.1 98.8 70.7 93.6 86 102.4l122 70.4V32z"/></svg></span> Student Paper Award – Privacy Papers for Policymakers <a href="https://fpf.org/wp-content/uploads/2024/02/FPF-PPPM-2024-Digest-FINAL-PRINT-R3-singles-1.pdf" style="color:teal"><em>(PPPM)</em></a> ; Future of Privacy Forum</p>
+<p><span style="color:teal"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:12px;width:12px;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M208 32c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32V172.9l122-70.4c15.3-8.8 34.9-3.6 43.7 11.7l16 27.7c8.8 15.3 3.6 34.9-11.7 43.7L352 256l122 70.4c15.3 8.8 20.5 28.4 11.7 43.7l-16 27.7c-8.8 15.3-28.4 20.6-43.7 11.7L304 339.1V480c0 17.7-14.3 32-32 32H240c-17.7 0-32-14.3-32-32V339.1L86 409.6c-15.3 8.8-34.9 3.6-43.7-11.7l-16-27.7c-8.8-15.3-3.6-34.9 11.7-43.7L160 256 38 185.6c-15.3-8.8-20.5-28.4-11.7-43.7l16-27.7C51.1 98.8 70.7 93.6 86 102.4l122 70.4V32z"/></svg></span> <a href="https://hai.stanford.edu/policy-brief-privacy-bias-trade" style="color:teal"><em>Policy Brief</em></a> – Institute on Human-Centered
+Artificial Intelligence (HAI)</p>
+<h1 id="works-in-progress"><span style="color:#005354"><strong>Works in Progress</strong></span></h1>
 <p>Democracy Under Surveillance: The Effect of Pretrial Electronic Monitoring on Voting Behavior.</p>
 <p>We’ve Got Democracy at Home: Resident Council Emergence in Public Housing Developments.</p>
 <p>Don’t Shoot The Messenger: Do Open Data Initiatives Moderate the Effect of Police Violence News on Trust in Police?</p>

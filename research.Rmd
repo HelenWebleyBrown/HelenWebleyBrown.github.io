@@ -7,18 +7,36 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Conference Papers
+<style>
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.2; /* Adjust the value as needed */
+  }
+</style>
 
-Gupta, A., Wu, V., **Webley-Brown, H**., King, J., Ho, D. (2023). [*The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government*](https://dl.acm.org/doi/10.1145/3593013.3594015){style="color:#005354"}. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23).
+<style>
+  h1 {
+    font-size: 28px; /* Adjust size for <h1> */
+  }
+</style>
 
-[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:#005354"} *Best Paper Award* – FAccT 2023
+<style>
+  li {
+    line-height: 1; /* Tightens spacing */
+  }
+</style>
 
-[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:#005354"} *Student Paper Award* – Privacy Papers for Policymakers [*(PPPM)*](https://fpf.org/wp-content/uploads/2024/02/FPF-PPPM-2024-Digest-FINAL-PRINT-R3-singles-1.pdf){style="color:#005354"} ; Future of Privacy Forum
+# [**Conference Papers**]{style="color:#005354"}
 
-[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:#005354"} [*Policy Brief*](https://hai.stanford.edu/policy-brief-privacy-bias-trade){style="color:#005354"} -- Institute on Human-Centered
-Artificial Intelligence *(HAI)*
+Gupta, A., Wu, V., **Webley-Brown, H**., King, J., Ho, D. (2023). [*The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government*](https://dl.acm.org/doi/10.1145/3593013.3594015){style="color:teal"}. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23).
 
-## Works in Progress
+[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:teal"} Best Paper Award – FAccT 2023
+
+[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:teal"} Student Paper Award – Privacy Papers for Policymakers [*(PPPM)*](https://fpf.org/wp-content/uploads/2024/02/FPF-PPPM-2024-Digest-FINAL-PRINT-R3-singles-1.pdf){style="color:teal"} ; Future of Privacy Forum
+
+[`r fontawesome::fa("star-of-life", height = "12px")`]{style="color:teal"} [*Policy Brief*](https://hai.stanford.edu/policy-brief-privacy-bias-trade){style="color:teal"} -- Institute on Human-Centered
+Artificial Intelligence (HAI)
+
+# [**Works in Progress**]{style="color:#005354"}
 
 Democracy Under Surveillance: The Effect of Pretrial Electronic Monitoring on Voting Behavior.
 

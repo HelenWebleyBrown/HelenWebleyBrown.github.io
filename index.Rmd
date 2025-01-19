@@ -21,10 +21,11 @@ knitr::opts_chunk$set(echo = FALSE)
 # Learn more about publishing to GitHub Pages at:
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
+# Hello! I am a final-year S.M. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. My research focuses on carceral politics and the use of emerging tech in subnational government services.
 ```
 
 ```{r, echo = FALSE}
 fontawesome::fa_html_dependency()
 ```
 
-Hello! I am a final-year S.M. student in Political Science at MIT with specializations in American Politics and Quantitative Methods. My research focuses on carceral politics and the use of emerging tech in subnational government services.
+Hello! I am a Research Officer at LSE's Phelan United States Centre and a Research Assistant at the Oxford Internet Institute. My personal research agenda focuses on carceral politics and the use of AI in state/local government services.

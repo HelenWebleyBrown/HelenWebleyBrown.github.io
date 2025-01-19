@@ -1,0 +1,50 @@
+---
+title: "Teaching"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<style>
+  li {
+    line-height: 1; /* Tightens spacing */
+  }
+</style>
+
+<style>
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.2; /* Adjust the value as needed */
+  }
+</style>
+
+<style>
+  h1 {
+    font-size: 28px; /* Adjust size for <h1> */
+  }
+</style>
+
+My personal background has greatly shaped my commitment to inclusive pedagogy and widening access to higher education. As an aspiring educator, I have pursued skills-building opportunities conducive to leading equitable classrooms where students feel a sense of belonging, community, and intellectual safety. In 2024, I earned a [*Teaching Certificate*](https://tll.mit.edu/programming/teaching-certificate-pathways/grad-teaching-development-tracks/){style="color:teal"} through MIT's Teaching + Learning Lab, which involved pedagogical workshops in course design, inclusive teaching, lesson planning, and microteaching. In addition to certification, I have served as a teaching assistant for the following classes:
+
+# [**[Fall 2024] Making Public Policy (Undergraduate)**]{style="color:#005354"}
+
+- **Institution:** Massachusetts Institute of Technology (MIT)
+- **Instructor:** Prof. Andrea Campbell
+- **Teaching Assistant Evaluation:** 6.8 out of 7
+
+- **Student comments:**
+  + "Ms. Webley-Brown's recitation is incredibly engaging, interactive, and supportive. She is very kind and will always be happy to help and answer questions."
+  + "Helen was both an incredible TA and such a kind person overall. Her comments helped to genuinely improve my writing and her recitations were engaging in a way that I had never experienced from a recitation before."
+
+
+# [**[Spring 2021]** Quantitative Political Methodology (Undergraduate)]{style="color:#005354"}
+
+- **Institution:** Washington University in St. Louis (WashU)
+- **Instructor:** Prof. Christopher Lucas
+
+
+# [**[Spring 2020]** Social Movements (Undergraduate)]{style="color:#005354"}
+
+- **Institution:** Washington University in St. Louis (WashU)
+- **Instructor:** Prof. Sarah Gaby
