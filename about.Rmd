@@ -7,13 +7,13 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-I am a Research Officer at LSE's [*Phelan United States Centre*](https://www.lse.ac.uk/united-states){style="color:teal"}. At LSE, I work on several projects within Prof. Lauren Sukin's programme of research entitled *Dangerous Divisions: The Impact of Polarisation on Nuclear Politics.* Broadly, the projects examine how domestic political conditions in the US impact its international standing. Alongside this role, I am a Research Assistant for Prof. Helen Margetts at the [*Oxford Internet Institute*](https://www.oii.ox.ac.uk/){style="color:teal"}, focusing on digital information exchange between the UK government and its citizens. I am also an affiliate of the [*Center for American Political Studies*](https://caps.gov.harvard.edu/){style="color:teal"} at Harvard University.
+I am a Research Officer at LSE's [*Phelan United States Centre*](https://www.lse.ac.uk/united-states){style="color:teal"}. At LSE, I work on several projects within Prof. Lauren Sukin's programme of research entitled *Dangerous Divisions: The Impact of Polarisation on Nuclear Politics.* The projects examine how domestic political conditions in the US impact its international standing. Alongside this role, I am a Research Assistant for Prof. Helen Margetts at the [*Oxford Internet Institute*](https://www.oii.ox.ac.uk/){style="color:teal"}, focusing on digital information exchange between the UK government and its citizens. I am also an affiliate of the [*Center for American Political Studies*](https://caps.gov.harvard.edu/){style="color:teal"} at Harvard University.
 
 Before returning to London in late 2024, I spent six years studying in the US. I moved across the pond for undergrad via the US-UK Fulbright Commission's wonderful [*Sutton Trust US Programme*](https://us.suttontrust.com/){style="color:teal"}. In 2022, I graduated from Washington University in St. Louis with a A.B. in Political Science. In 2025, I mastered out of MIT Political Science's Ph.D. program, earning an S.M. in Political Science. I reapplied to Ph.D. programs this cycle, and hope to (re)start my doctoral studies in fall 2025.
 
 Currently, my research agenda fits into two broad buckets:
 
-1.  The socio-political effects of interacting with local political institutions, focusing on [**police departments**]{style="color:teal"} and [**public housing authorities**]{style="color:teal"}.
+1.  The socio-political effects of interacting with local political institutions in the US, focusing on [**police departments**]{style="color:teal"} and [**public housing authorities**]{style="color:teal"}.
 2.  How [**emerging technologies**]{style="color:teal"} change the way people experience and perceive the state.
 
 At the intersection of this, I am interested in questions like: How do technology companies influence local policymaking and biases in public service provision? Where and why do local officials implement AAI-assisted policies like ShotSpotter in policing and Landlord Tech in housing? And, how do these tools shape political trust and civic engagement in marginalized communities?
