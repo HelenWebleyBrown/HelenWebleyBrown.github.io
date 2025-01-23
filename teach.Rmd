@@ -21,11 +21,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <style>
   h1 {
-    font-size: 28px; /* Adjust size for <h1> */
+    font-size: 20px; /* Adjust size for <h1> */
   }
 </style>
 
-My personal background has greatly shaped my commitment to inclusive pedagogy and widening access to higher education. As an aspiring educator, I have pursued skills-building opportunities to bolster my ability to lead equitable classrooms where students feel a sense of belonging, community, and intellectual safety. In 2024, I earned a [*Teaching Certificate*](https://tll.mit.edu/programming/teaching-certificate-pathways/grad-teaching-development-tracks/){style="color:teal"} through MIT's Teaching + Learning Lab, which involved pedagogical workshops in course design, inclusive teaching, lesson planning, and microteaching. In addition to certification, I have served as a teaching assistant for the following classes:
+My personal background has greatly shaped my commitment to inclusive pedagogy and widening access to higher education. As an aspiring educator, I have pursued opportunities to strengthen my ability to lead equitable classrooms where students feel a sense of belonging, community, and intellectual safety. In 2024, I earned a [*Teaching Certificate*](https://tll.mit.edu/programming/teaching-certificate-pathways/grad-teaching-development-tracks/){style="color:teal"} through MIT's Teaching + Learning Lab, which involved pedagogical workshops in course design, inclusive teaching, lesson planning, and microteaching. In addition to certification, I have served as a teaching assistant for the following classes:
 
 # [**[Fall 2024] Making Public Policy (Undergraduate)**]{style="color:#005354"}
 
