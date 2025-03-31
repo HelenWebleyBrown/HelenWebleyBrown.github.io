@@ -1,7 +1,6 @@
-name: "."
+name: "Helen Webley-Brown"
 title: "Helen Webley-Brown"
-description: |
-  Helen Webley-Brown
+description: "I am a Research Officer at LSE’s Phelan United States Centre and a Research Assistant at the Oxford Internet Institute."
 output_dir: "."
 navbar:
   right:
