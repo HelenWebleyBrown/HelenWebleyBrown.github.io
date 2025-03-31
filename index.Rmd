@@ -1,5 +1,6 @@
 ---
 title: "Helen Webley-Brown"
+description: "Helen Webley-Brown is a Research Officer at LSE’s Phelan United States Centre and a Research Assistant at the Oxford Internet Institute."
 image: "website-pic.jpg"
 links:
   - label: '`r fontawesome::fa("fas fa-file-lines", height = "25px")`'
