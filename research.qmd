@@ -85,7 +85,7 @@ __Webley-Brown, H.__, Sipek, A., Buoymaster, K., Shivalkar, J., Owen, W., Manis,
 
 <hr>
 
-__Webley-Brown, H__ (2021). False Freedom: Exploring Client’ Pretrial Experiences on Electronic
+__Webley-Brown, H__. (2021). False Freedom: Exploring Client’ Pretrial Experiences on Electronic
 Monitors. The Bail Project.
 
 <a href="papers/false-freedom.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-dark" role="button"> pdf</a>
