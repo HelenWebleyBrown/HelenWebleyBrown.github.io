@@ -24,7 +24,7 @@ Currently, my research agenda fits into two broad buckets:
 At the intersection of this, I am interested in questions like: How do technology companies influence local policymaking and biases in public service provision? Where and why do local officials implement AAI-assisted policies like ShotSpotter in policing and Landlord Tech in housing? And, how do these tools shape political trust and civic engagement in marginalized communities?
 
 ::: {.callout-tip appearance="minimal"}
-Where possible, I have included pdfs of my work below. The ["In The Wild"]{style="color:teal"} buttons link to examples of this work's impact outside the ivory tower, including in testimonials and policy reports.
+I have included pdfs of my work below. Where possible, I also include an ["In The Wild"]{style="color:teal"} button, which links to examples of this work's impact outside the ivory tower, including in testimonials and policy reports.
 
 :::
 
