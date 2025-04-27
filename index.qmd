@@ -22,27 +22,20 @@ format:
         padding-bottom: 0 !important; /* Remove padding below navbar */
       }
 
+      /* Adjust space between title and image */
       .quarto-title {
-        margin-top: -20px !important; /* Reduce space above title */
+        margin-top: -20px !important; /* Adjust margin-top to reduce space */
       }
 
       .quarto-title img {
-        margin-top: -15px !important; /* Move image closer to title */
-      }
-      
-      .quarto-title img {
-        padding-bottom: 0 !important; /* Remove padding below image */
+        margin-top: -10px !important;  /* Pull image up closer to the title */
+        padding-top: 0 !important;     /* Remove any extra padding on top */
       }
 
-      .quarto-title h1 {
-        margin-top: 0 !important; /* Remove margin from title */
+      .quarto-about-jolla {
+        margin-top: -10px !important;  /* Adjust space above the content section */
       }
 ---
-
-
-
-
-
 Hello - my name is **Helen Webley-Brown**!
 
 I am a __Research Officer__ at __LSE__'s Phelan United States Centre and a __Research Assistant__ at the __Oxford Internet Institute__. In fall 2025, I'll begin my Ph.D. in Sociology at Stanford University as a CCSRE Emerging Scholar.
