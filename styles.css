@@ -27,3 +27,8 @@
 }
 
 
+/* Make research page buttons smaller */
+a.btn {
+  font-size: 0.65rem;
+  padding: 0.2rem 0.4rem;
+}

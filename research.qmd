@@ -4,11 +4,7 @@ format:
   html:
     code-link: true
     toc: true
-    css: |
-      a.btn {
-        font-size: 0.65rem;
-        padding: 0.2rem 0.4rem;
-      }
+    css: style.css
 execute:
   echo: true
 editor_options: 
