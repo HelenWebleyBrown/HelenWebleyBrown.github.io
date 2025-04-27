@@ -6,8 +6,8 @@ format:
     toc: true
     css: |
       a.btn {
-        font-size: 0.8rem;
-        padding: 0.25rem 0.5rem;
+        font-size: 0.65rem;
+        padding: 0.2rem 0.4rem;
       }
 execute:
   echo: true
