@@ -51,9 +51,6 @@ An emerging concern in algorithmic fairness is the tension with privacy interest
 
 ## Works in Progress
 
-
-Democracy Under Surveillance: The Effect of Pretrial Electronic Monitoring on Voting Behavior.
-
 We’ve Got Democracy at Home: Resident Council Emergence in Public Housing Developments.
 
 Don’t Shoot The Messenger: Do Open Data Initiatives Moderate the Effect of Police Violence News on Trust in Police?
