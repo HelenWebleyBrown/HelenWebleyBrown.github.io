@@ -1,9 +1,10 @@
 ---
-title: "Helen Webley-Brown"
+title: ""
 image: square-website-pic.jpg
 about:
   template: trestles
-  image-width: 14em
+  image-width: 12em
+  image-shape: rounded
   links:
     - icon: file-earmark-pdf
       text: CV
