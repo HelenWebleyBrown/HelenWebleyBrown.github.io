@@ -20,9 +20,9 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 
 ### [[Fall 2024] Making Public Policy (Undergraduate)]{style="color:#005354"}
 
-::: {.callout-note collapse="true" icon=true}
+::: {.callout-note collapse="true" icon=false}
 
-## Details
+## <i class="bi bi-lightbulb"></i> &nbsp; Details
 
 - **Institution:** Massachusetts Institute of Technology (MIT)
 - **Instructor:** Prof. Andrea Campbell
@@ -38,9 +38,9 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 
 ### [[Spring 2021] Quantitative Political Methodology (Undergraduate)]{style="color:#005354"}
 
-::: {.callout-note collapse="true" icon=true}
+::: {.callout-note collapse="true" icon=false}
 
-## Details
+## <i class="bi bi-lightbulb"></i> &nbsp; Details
 
 - **Institution:** Washington University in St. Louis (WashU)
 - **Instructor:** Prof. Christopher Lucas
@@ -51,9 +51,9 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 
 ### [[Spring 2020] Social Movements (Undergraduate)]{style="color:#005354"}
 
-::: {.callout-note collapse="true" icon=true}
+::: {.callout-note collapse="true" icon=false}
 
-## Details
+## <i class="bi bi-lightbulb"></i> &nbsp; Details
 
 - **Institution:** Washington University in St. Louis (WashU)
 - **Instructor:** Prof. Sarah Gaby

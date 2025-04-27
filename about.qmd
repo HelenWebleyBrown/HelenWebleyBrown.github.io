@@ -6,10 +6,10 @@ about:
   image-width: 12em
   image-shape: rounded
   links:
-    - icon: file-earmark-pdf
+    - icon: file-earmark-pdf-fill
       text: CV
       href: /papers/CV_HWebleyBrown.pdf
-    - icon: envelope-at
+    - icon: envelope-at-fill
       text: Email
       href: "mailto:hwbrown@stanford.edu"
     - icon: linkedin

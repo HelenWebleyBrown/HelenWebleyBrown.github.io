@@ -6,10 +6,10 @@ about:
   image-width: 12em
   image-shape: rounded
   links:
-    - icon: file-earmark-pdf
+    - icon: file-earmark-pdf-fill
       text: CV
       href: /papers/CV_HWebleyBrown.pdf
-    - icon: envelope-at
+    - icon: envelope-at-fill
       text: Email
       href: "mailto:hwbrown@stanford.edu"
     - icon: linkedin
@@ -42,9 +42,9 @@ format:
 
 Hello -- my name is **Helen Webley-Brown**. I am a __Research Officer__ at __LSE__'s Phelan United States Centre and a __Research Assistant__ at the __Oxford Internet Institute__. In fall 2025, I'll begin my Ph.D. in Sociology at Stanford University.
 
-::: {.callout-tip appearance="default"}
+::: {.callout-note appearance="default" icon=false}
 
-## Research Interests
+## <i class="bi bi-lightbulb"></i> &nbsp; Research Interests
 
 local U.S. politics | criminal legal system | AI in state/local government services
 :::
