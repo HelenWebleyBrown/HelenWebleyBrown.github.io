@@ -44,7 +44,7 @@ Hello -- my name is **Helen Webley-Brown**. I am a __Research Officer__ at __LSE
 
 ::: {.callout-note appearance="default" icon=false}
 
-## <i class="bi bi-lightbulb"></i> &nbsp; Research Interests
+## <i class="bi bi-lightning"></i> &nbsp; Research Interests
 
 local U.S. politics | criminal legal system | AI in state/local government services
 :::

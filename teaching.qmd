@@ -22,7 +22,7 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 
 ::: {.callout-note collapse="true" icon=false}
 
-## <i class="bi bi-lightbulb"></i> &nbsp; Details
+## <i class="bi bi-lightning"></i> &nbsp; Details
 
 - **Institution:** Massachusetts Institute of Technology (MIT)
 - **Instructor:** Prof. Andrea Campbell
@@ -40,7 +40,7 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 
 ::: {.callout-note collapse="true" icon=false}
 
-## <i class="bi bi-lightbulb"></i> &nbsp; Details
+## <i class="bi bi-lightning"></i> &nbsp; Details
 
 - **Institution:** Washington University in St. Louis (WashU)
 - **Instructor:** Prof. Christopher Lucas
@@ -53,7 +53,7 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 
 ::: {.callout-note collapse="true" icon=false}
 
-## <i class="bi bi-lightbulb"></i> &nbsp; Details
+## <i class="bi bi-lightning"></i> &nbsp; Details
 
 - **Institution:** Washington University in St. Louis (WashU)
 - **Instructor:** Prof. Sarah Gaby

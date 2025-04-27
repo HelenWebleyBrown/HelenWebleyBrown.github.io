@@ -24,7 +24,7 @@ Currently, my research agenda fits into two broad buckets:
 At the intersection of this, I am interested in questions like: How do technology companies influence local policymaking and biases in public service provision? Where and why do local officials implement AAI-assisted policies like ShotSpotter in policing and Landlord Tech in housing? And, how do these tools shape political trust and civic engagement in marginalized communities?
 
 ::: {.callout-tip appearance="minimal"}
-I have included pdfs of my work below. Where possible, I also include an ["In The Wild"]{style="color:teal"} button, which links to examples of this work's impact outside the ivory tower, including in testimonials and policy reports.
+I have provided pdfs of my work below. Where possible, I have also added an ["In The Wild"]{style="color:teal"} button, which links to examples of this work's impact outside the ivory tower, including in testimonials and policy reports.
 
 :::
 
@@ -42,7 +42,7 @@ An emerging concern in algorithmic fairness is the tension with privacy interest
 
 ::: {.callout-caution collapse="true" icon=false}
 
-## <i class="bi bi-award"></i> &nbsp; Recognition
+## <i class="bi bi-trophy"></i> &nbsp; Recognition
 
 - [Best Paper Award](https://facctconference.org/2023/acceptedpapers) – FAccT 2023
 - [Student Paper Award](https://fpf.org/wp-content/uploads/2024/02/FPF-PPPM-2024-Digest-FINAL-PRINT-R3-singles-1.pdf) – Privacy Papers for Policymakers (PPPM) by the Future of Privacy Forum
