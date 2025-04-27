@@ -36,6 +36,7 @@ format:
         margin-top: -10px !important;  /* Adjust space above the content section */
       }
 ---
+
 Hello - my name is **Helen Webley-Brown**. I am a __Research Officer__ at __LSE__'s Phelan United States Centre and a __Research Assistant__ at the __Oxford Internet Institute__. In fall 2025, I'll begin my Ph.D. in Sociology at Stanford University as a CCSRE Emerging Scholar.
 
 ::: {.callout-tip appearance="default"}
