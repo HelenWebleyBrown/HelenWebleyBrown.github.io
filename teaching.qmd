@@ -12,9 +12,9 @@ editor_options:
 engine: knitr
 ---
 
-## Statement
+## Overview
 
-My personal background has greatly shaped my commitment to inclusive pedagogy and widening access to higher education. As an aspiring educator, I have actively pursued opportunities that strengthen my ability to lead equitable classrooms where students feel a sense of belonging, respect, and intellectual safety. In 2024, I earned a [Teaching Certificate](https://tll.mit.edu/programming/teaching-certificate-pathways/grad-teaching-development-tracks/) through MIT's Teaching + Learning Lab, which involved workshops in course design, inclusive teaching, lesson planning, and microteaching. In addition to this certification, I have served as a TA for the following classes:
+My personal background has greatly shaped my commitment to inclusive pedagogy and widening access to higher education. As an aspiring educator, I have actively pursued opportunities that strengthen my ability to lead equitable classrooms where students feel a sense of belonging, respect, and intellectual safety. In 2024, I earned a [Teaching Certificate](https://tll.mit.edu/programming/teaching-certificate-pathways/grad-teaching-development-tracks/) through MIT's Teaching + Learning Lab, which involved workshops in course design, inclusive teaching, lesson planning, and microteaching. In addition to this certification, I have served as a TA for three undergraduate classes.
 
 ## Teaching Assistant Experience
 
