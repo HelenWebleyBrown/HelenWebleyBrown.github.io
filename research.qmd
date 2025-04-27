@@ -52,7 +52,6 @@ An emerging concern in algorithmic fairness is the tension with privacy interest
 <a href="https://hai.stanford.edu/policy/policy-brief-privacy-bias-trade" target="_blank" rel="noopener noreferrer" class="bi-bank btn btn-success" role="button"> Policy Brief</a>
 <a href="papers/upturn-omb_testimony-HSGAC.pdf" target="_blank" rel="noopener noreferrer" class="bi-geo-alt btn btn-primary" role="button"> In The Wild </a>
 
-<hr>
 
 ## Works in Progress
 
@@ -62,7 +61,6 @@ Don’t Shoot The Messenger: Do Open Data Initiatives Moderate the Effect of Pol
 
 Why Watch The Watchers? Frame Utilization In Community Control Over Police Surveillance (CCOPS) Legislation.
 
-<hr>
 
 ## Research Reports
 
