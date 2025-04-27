@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - papers/CV_HWebleyBrown.pdf
 
 website:
   title: "Helen Webley-Brown"

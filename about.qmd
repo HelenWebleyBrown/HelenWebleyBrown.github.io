@@ -7,7 +7,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: CV
-      href: papers/CV_HWebleyBrown.pdf
+      href: /papers/CV_HWebleyBrown.pdf
     - icon: envelope-at
       text: Email
       href: "mailto:hwbrown@stanford.edu"
