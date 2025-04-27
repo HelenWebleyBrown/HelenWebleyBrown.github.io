@@ -4,6 +4,7 @@ image: square-website-pic.jpg
 about:
   template: solana
   image-width: 12em
+  image-shape: rounded
   links:
     - icon: file-earmark-pdf
       text: CV
@@ -14,6 +15,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/helenwebley-brown/
+    - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/helenwb.bsky.social
 format:
   html:
     css: |

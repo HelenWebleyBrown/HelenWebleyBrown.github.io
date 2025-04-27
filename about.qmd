@@ -15,7 +15,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/helenwebley-brown/
-toc: false
+    - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/helenwb.bsky.social
 ---
 
 ## About
