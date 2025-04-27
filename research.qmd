@@ -23,6 +23,11 @@ Currently, my research agenda fits into two broad buckets:
 
 At the intersection of this, I am interested in questions like: How do technology companies influence local policymaking and biases in public service provision? Where and why do local officials implement AAI-assisted policies like ShotSpotter in policing and Landlord Tech in housing? And, how do these tools shape political trust and civic engagement in marginalized communities?
 
+::: {.callout-tip appearance="minimal"}
+Where possible, I have included pdfs of my work below. The ["In The Wild"]{style="color:teal"} buttons link to examples of this work's impact outside the ivory tower, including in testimonials and policy reports.
+
+:::
+
 ## Conference Papers
 
 Gupta, A., Wu, V., **Webley-Brown, H**., King, J., Ho, D. (2023). [The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government](https://dl.acm.org/doi/10.1145/3593013.3594015). In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23).
