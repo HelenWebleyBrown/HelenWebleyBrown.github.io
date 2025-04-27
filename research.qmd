@@ -54,15 +54,9 @@ An emerging concern in algorithmic fairness is the tension with privacy interest
 
 Democracy Under Surveillance: The Effect of Pretrial Electronic Monitoring on Voting Behavior.
 
-<hr>
-
 We’ve Got Democracy at Home: Resident Council Emergence in Public Housing Developments.
 
-<hr>
-
 Don’t Shoot The Messenger: Do Open Data Initiatives Moderate the Effect of Police Violence News on Trust in Police?
-
-<hr>
 
 Why Watch The Watchers? Frame Utilization In Community Control Over Police Surveillance (CCOPS) Legislation.
 
