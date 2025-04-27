@@ -1,0 +1,29 @@
+---
+title: "Welcome!"
+image: square-website-pic.jpg
+about:
+  template: jolla
+  image-width: 12em
+  links:
+    - icon: file-earmark-pdf
+      text: CV
+      href: papers/CV_HWebleyBrown.pdf
+    - icon: envelope-at
+      text: Email
+      href: "mailto:hwbrown@stanford.edu"
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/helenwebley-brown/
+---
+
+Hello - my name is **Helen Webley-Brown** (she/her)!
+
+I am a __Research Officer__ at __LSE__'s Phelan United States Centre and a __Research Assistant__ at the __Oxford Internet Institute__. 
+
+In fall 2025, I'll begin my Ph.D. in Sociology at Stanford University as a CCSRE Emerging Scholar. My research interests include local U.S. politics, the carceral state, and the use of AI in state/local government services.
+
+<meta name="description" content="Helen Webley-Brown is a Research Officer at LSE’s Phelan United States Centre and a Research Assistant at the Oxford Internet Institute." />
+
+<meta name="google-site-verification" content="awhCG90OuinCNn1cCOCudHdqQGQzZ92Y5B0rHoeilgM" />
+
+<meta property="og:description" content="Helen Webley-Brown is a Research Officer at LSE’s Phelan United States Centre and a Research Assistant at the Oxford Internet Institute." />

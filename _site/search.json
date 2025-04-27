@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Helen Webley-Brown",
+    "section": "",
+    "text": "I am a Research Officer at LSE’s Phelan United States Centre. At LSE, I work on several projects within Prof. Lauren Sukin’s program of research entitled Dangerous Divisions: The Impact of Polarization on Nuclear Politics. The projects examine how domestic political conditions in the US impact its international standing. Alongside this role, I am a Research Assistant for Prof. Helen Margetts at the Oxford Internet Institute, focusing on digital information exchange between the UK government and its citizens. I am also an affiliate of the Center for American Political Studies at Harvard University.\nBefore returning to London in late 2024, I spent six years studying in the US. I moved across the pond for undergrad via the US-UK Fulbright Commission’s wonderful Sutton Trust US Programme. In 2022, I graduated from Washington University in St. Louis with an A.B. in Political Science. In 2025, I mastered out of MIT Political Science’s Ph.D. program, earning an S.M. in Political Science. I reapplied to Ph.D. programs that same year and will (re)start my doctoral training at Stanford Sociology this fall as a CCSRE Emerging Scholar."
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "Helen Webley-Brown",
+    "section": "",
+    "text": "I am a Research Officer at LSE’s Phelan United States Centre. At LSE, I work on several projects within Prof. Lauren Sukin’s program of research entitled Dangerous Divisions: The Impact of Polarization on Nuclear Politics. The projects examine how domestic political conditions in the US impact its international standing. Alongside this role, I am a Research Assistant for Prof. Helen Margetts at the Oxford Internet Institute, focusing on digital information exchange between the UK government and its citizens. I am also an affiliate of the Center for American Political Studies at Harvard University.\nBefore returning to London in late 2024, I spent six years studying in the US. I moved across the pond for undergrad via the US-UK Fulbright Commission’s wonderful Sutton Trust US Programme. In 2022, I graduated from Washington University in St. Louis with an A.B. in Political Science. In 2025, I mastered out of MIT Political Science’s Ph.D. program, earning an S.M. in Political Science. I reapplied to Ph.D. programs that same year and will (re)start my doctoral training at Stanford Sociology this fall as a CCSRE Emerging Scholar."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Helen Webley-Brown",
+    "section": "",
+    "text": "Currently, my research agenda fits into two broad buckets:\n\nThe socio-political effects of interacting with local political institutions in the US, focusing on police departments and public housing authorities.\nHow emerging technologies change the way people experience and perceive the state.\n\nAt the intersection of this, I am interested in questions like: How do technology companies influence local policymaking and biases in public service provision? Where and why do local officials implement AAI-assisted policies like ShotSpotter in policing and Landlord Tech in housing? And, how do these tools shape political trust and civic engagement in marginalized communities?"
+  },
+  {
+    "objectID": "research.html#overview",
+    "href": "research.html#overview",
+    "title": "Helen Webley-Brown",
+    "section": "",
+    "text": "Currently, my research agenda fits into two broad buckets:\n\nThe socio-political effects of interacting with local political institutions in the US, focusing on police departments and public housing authorities.\nHow emerging technologies change the way people experience and perceive the state.\n\nAt the intersection of this, I am interested in questions like: How do technology companies influence local policymaking and biases in public service provision? Where and why do local officials implement AAI-assisted policies like ShotSpotter in policing and Landlord Tech in housing? And, how do these tools shape political trust and civic engagement in marginalized communities?"
+  },
+  {
+    "objectID": "research.html#conference-papers",
+    "href": "research.html#conference-papers",
+    "title": "Helen Webley-Brown",
+    "section": "Conference Papers",
+    "text": "Conference Papers\nGupta, A., Wu, V., Webley-Brown, H., King, J., Ho, D. (2023). The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’23).\n\n\n\n\n\n\n   Abstract\n\n\n\n\n\nAn emerging concern in algorithmic fairness is the tension with privacy interests. Data minimization can restrict access to protected attributes, such as race and ethnicity, for bias assessment and mitigation. Less recognized is that for nearly 50 years, the federal government has been engaged in a large-scale experiment in data minimization, limiting (a) data sharing across federal agencies under the Privacy Act of 1974, and (b) data collection under the Paperwork Reduction Act. We document how this “privacy-bias tradeoff” has become an important battleground for fairness assessments in the U.S. government and provides rich lessons for resolving these tradeoffs. President Biden’s 2021 racial justice Executive Order 13,985 mandated that federal agencies conduct equity impact assessments (e.g., for racial disparities) of federal programs. We conduct a comprehensive assessment across high-volume claims agencies that affect many individuals, as well as all agencies filing “equity action plans,” with three findings. First, there is broad agreement in principle that equity impact assessments are important, with few parties raising privacy challenges in theory and many agencies proposing substantial efforts. Second, in practice, major agencies do not collect and may be affirmatively prohibited under the Privacy Act from linking demographic information. This has led to pathological results: until 2022, for instance, the US Dept. of Agriculture imputed race by “visual observation” when race information was not collected. Data minimization has meant that even where agencies want to acquire demographic information in principle, the legal, data infrastructure, and bureaucratic hurdles are severe. Third, we derive policy implications to address these barriers.\n\n\n\n\n\n\n\n\n\n   Recognition\n\n\n\n\n\n\nBest Paper Award – FAccT 2023\n\nStudent Paper Award – Privacy Papers for Policymakers (PPPM) by the Future of Privacy Forum\n\nPolicy Brief – Institute on Human-Centered Artificial Intelligence (HAI)\n\n\n\n\n pdf  Policy Brief  In The Wild"
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Helen Webley-Brown",
+    "section": "Works in Progress",
+    "text": "Works in Progress\nDemocracy Under Surveillance: The Effect of Pretrial Electronic Monitoring on Voting Behavior.\n\nWe’ve Got Democracy at Home: Resident Council Emergence in Public Housing Developments.\n\nDon’t Shoot The Messenger: Do Open Data Initiatives Moderate the Effect of Police Violence News on Trust in Police?\n\nWhy Watch The Watchers? Frame Utilization In Community Control Over Police Surveillance (CCOPS) Legislation."
+  },
+  {
+    "objectID": "research.html#research-reports",
+    "href": "research.html#research-reports",
+    "title": "Helen Webley-Brown",
+    "section": "Research Reports",
+    "text": "Research Reports\nWebley-Brown, H., Sipek, A., Buoymaster, K., Shivalkar, J., Owen, W., Manis, E. (2022). ShotSpotter and the Misfires of Gunshot Detection Technology. Surveillance Technology Oversight Project.\n pdf  In The Wild \n\nLoshkajian, N., Van Doran, S., Melendi, J., Saran, S., Webley-Brown, H., Manis, E. (2022). Privatizing The Surveillance State: How Police Foundations Undermine Rule of Law. Surveillance Technology Oversight Project.\n pdf\n\nWebley-Brown, H (2021). False Freedom: Exploring Client’ Pretrial Experiences on Electronic Monitors. The Bail Project.\n pdf  In The Wild"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Helen Webley-Brown",
+    "section": "",
+    "text": "My personal background has greatly shaped my commitment to inclusive pedagogy and widening access to higher education. As an aspiring educator, I have actively pursued opportunities that strengthen my ability to lead equitable classrooms where students feel a sense of belonging, respect, and intellectual safety. In 2024, I earned a Teaching Certificate through MIT’s Teaching + Learning Lab, which involved workshops in course design, inclusive teaching, lesson planning, and microteaching. In addition to this certification, I have served as a TA for the following classes:"
+  },
+  {
+    "objectID": "teaching.html#statement",
+    "href": "teaching.html#statement",
+    "title": "Helen Webley-Brown",
+    "section": "",
+    "text": "My personal background has greatly shaped my commitment to inclusive pedagogy and widening access to higher education. As an aspiring educator, I have actively pursued opportunities that strengthen my ability to lead equitable classrooms where students feel a sense of belonging, respect, and intellectual safety. In 2024, I earned a Teaching Certificate through MIT’s Teaching + Learning Lab, which involved workshops in course design, inclusive teaching, lesson planning, and microteaching. In addition to this certification, I have served as a TA for the following classes:"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-experience",
+    "href": "teaching.html#teaching-assistant-experience",
+    "title": "Helen Webley-Brown",
+    "section": "Teaching Assistant Experience",
+    "text": "Teaching Assistant Experience\n[Fall 2024] Making Public Policy (Undergraduate)\n\n\n\n\n\n\n   Details\n\n\n\n\n\n\nInstitution: Massachusetts Institute of Technology (MIT)\nInstructor: Prof. Andrea Campbell\nTeaching Assistant Evaluation: 6.8 out of 7\n\nStudent comments:\n\n“Ms. Webley-Brown’s recitation is incredibly engaging, interactive, and supportive. She is very kind and will always be happy to help and answer questions.”\n“Helen was both an incredible TA and such a kind person overall. Her comments helped to genuinely improve my writing and her recitations were engaging in a way that I had never experienced from a recitation before.”\n\n\n\n\n\n\n[Spring 2021] Quantitative Political Methodology (Undergraduate)\n\n\n\n\n\n\n   Details\n\n\n\n\n\n\n\nInstitution: Washington University in St. Louis (WashU)\n\nInstructor: Prof. Christopher Lucas\n\n\n\n\n[Spring 2020] Social Movements (Undergraduate)\n\n\n\n\n\n\n   Details\n\n\n\n\n\n\n\nInstitution: Washington University in St. Louis (WashU)\n\nInstructor: Prof. Sarah Gaby"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Hello - my name is Helen Webley-Brown (she/her)!\nI am a Research Officer at LSE’s Phelan United States Centre and a Research Assistant at the Oxford Internet Institute.\nIn fall 2025, I’ll begin my Ph.D. in Sociology at Stanford University as a CCSRE Emerging Scholar. My research interests include local U.S. politics, the carceral state, and the use of AI in state/local government services."
+  }
+]

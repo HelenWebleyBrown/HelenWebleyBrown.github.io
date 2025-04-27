@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Helen Webley-Brown"
+  open-graph: true
+  navbar:
+    background: "#FFFFFF"
+    foreground: "dark"
+    right:
+      - href: /
+        icon: house-fill
+        aria-label: Home
+      - href: about.qmd
+        text: "About"
+      - href: research.qmd
+        text: "Research"
+      - href: teaching.qmd
+        text: "Teaching"
+      - href: https://www.dropbox.com/scl/fi/aj5fjpx2mye6nrujs94wq/CV_HWebleyBrown.pdf?rlkey=dpajoi4zk95wou8vk4tyfevo5&st=lk00j72g&dl=0
+        text: "CV"
+
+format:
+  html:
+    theme: ember.scss
+    css: styles.css
+    linkcolor: "#008080"
+    toc: true
+
+
+

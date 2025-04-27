@@ -1,0 +1,30 @@
+---
+title: "Helen Webley-Brown"
+image: square-website-pic.jpg
+about:
+  template: trestles
+  image-width: 14em
+  links:
+    - icon: file-earmark-pdf
+      text: CV
+      href: papers/CV_HWebleyBrown.pdf
+    - icon: envelope-at
+      text: Email
+      href: "mailto:hwbrown@stanford.edu"
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/helenwebley-brown/
+toc: false
+---
+
+## About
+
+I am a Research Officer at LSE's [Phelan United States Centre](https://www.lse.ac.uk/united-states). At LSE, I work on several projects within Prof. Lauren Sukin's program of research entitled *Dangerous Divisions: The Impact of Polarization on Nuclear Politics.* The projects examine how domestic political conditions in the US impact its international standing. Alongside this role, I am a Research Assistant for Prof. Helen Margetts at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/), focusing on digital information exchange between the UK government and its citizens. I am also an affiliate of the [Center for American Political Studies](https://caps.gov.harvard.edu/) at Harvard University.
+
+Before returning to London in late 2024, I spent six years studying in the US. I moved across the pond for undergrad via the US-UK Fulbright Commission's wonderful [Sutton Trust US Programme](https://us.suttontrust.com/). In 2022, I graduated from Washington University in St. Louis with an A.B. in Political Science. In 2025, I mastered out of MIT Political Science's Ph.D. program, earning an S.M. in Political Science. I reapplied to Ph.D. programs that same year and will (re)start my doctoral training at Stanford Sociology this fall as a [CCSRE Emerging Scholar](https://ccsre.stanford.edu/programs/ccsre-emerging-scholars).
+
+<meta name="description" content="Helen Webley-Brown is a Research Officer at LSE’s Phelan United States Centre and a Research Assistant at the Oxford Internet Institute." />
+
+<meta name="google-site-verification" content="awhCG90OuinCNn1cCOCudHdqQGQzZ92Y5B0rHoeilgM" />
+
+<meta property="og:description" content="Helen Webley-Brown is a Research Officer at LSE’s Phelan United States Centre and a Research Assistant at the Oxford Internet Institute." />
