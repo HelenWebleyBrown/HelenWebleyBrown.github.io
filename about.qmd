@@ -3,7 +3,7 @@ title: ""
 image: square-website-pic.jpg
 about:
   template: trestles
-  image-width: 12em
+  image-width: 13em
   image-shape: rounded
   links:
     - icon: file-earmark-pdf-fill

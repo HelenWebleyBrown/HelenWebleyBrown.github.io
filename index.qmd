@@ -4,7 +4,7 @@ image: square-website-pic.jpg
 about:
   template: solana
   image-width: 12em
-  image-shape: rounded
+  image-shape: round
   links:
     - icon: file-earmark-pdf-fill
       text: CV

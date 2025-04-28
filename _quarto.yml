@@ -22,7 +22,6 @@ website:
         text: "Teaching"
       - href: https://www.dropbox.com/scl/fi/aj5fjpx2mye6nrujs94wq/CV_HWebleyBrown.pdf?rlkey=dpajoi4zk95wou8vk4tyfevo5&st=lk00j72g&dl=0
         text: "CV"
-
 format:
   html:
     theme: ember.scss
