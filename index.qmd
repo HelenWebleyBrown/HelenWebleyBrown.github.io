@@ -17,30 +17,15 @@ about:
       href: https://www.linkedin.com/in/helenwebley-brown/
     - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
       href: https://bsky.app/profile/helenwb.bsky.social
-format:
-  html:
-    css: |
-      .navbar {
-        margin-bottom: 0 !important;  /* Remove margin below navbar */
-        padding-bottom: 0 !important; /* Remove padding below navbar */
-      }
-
-      /* Adjust space between title and image */
-      .quarto-title {
-        margin-top: -20px !important; /* Adjust margin-top to reduce space */
-      }
-
-      .quarto-title img {
-        margin-top: -10px !important;  /* Pull image up closer to the title */
-        padding-top: 0 !important;     /* Remove any extra padding on top */
-      }
-
-      .quarto-about-jolla {
-        margin-top: -10px !important;  /* Adjust space above the content section */
-      }
 ---
 
 Hello -- my name is **Helen Webley-Brown**. I am a __Research Officer__ at __LSE__'s Phelan United States Centre and a __Research Assistant__ at the __Oxford Internet Institute__. In fall 2025, I'll begin my Ph.D. in Sociology at Stanford University.
+
+You can read more about my academic journey on my [about](about.qmd) page and [teaching](teaching.qmd) page. 
+
+If the ideas on my [research](research.qmd) page interest you, please feel free to reach out to talk more about them or explore possible collaborations. 
+
+I'm also always happy to talk with people who are considering applying to graduate school and have shared my previous application materials on my [resources](resources.qmd) page alongside some suggested reading materials on navigating academia.
 
 ::: {.callout-note appearance="default" icon=false}
 

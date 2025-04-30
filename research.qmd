@@ -4,7 +4,7 @@ format:
   html:
     code-link: true
     toc: true
-    css: style.css
+    css: styles.css
 execute:
   echo: true
 editor_options: 
@@ -12,7 +12,6 @@ editor_options:
     wrap: 80
 engine: knitr
 ---
-
 
 ## Overview
 
@@ -25,7 +24,6 @@ At the intersection of this, I am interested in questions like: How do technolog
 
 ::: {.callout-tip appearance="minimal"}
 I have provided pdfs of my work below. Where possible, I have also added an ["In The Wild"]{style="color:teal"} button, which links to examples of this work's impact outside the ivory tower, including in testimonials and policy reports.
-
 :::
 
 ## Conference Papers
@@ -48,7 +46,7 @@ An emerging concern in algorithmic fairness is the tension with privacy interest
 - [Student Paper Award](https://fpf.org/wp-content/uploads/2024/02/FPF-PPPM-2024-Digest-FINAL-PRINT-R3-singles-1.pdf) – Privacy Papers for Policymakers (PPPM) by the Future of Privacy Forum
 :::
 
-<a href="papers/privacy-bias-tradeoff.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-dark" role="button"> pdf</a>
+<a href="papers/privacy-bias-tradeoff.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-danger" role="button"> pdf</a>
 <a href="https://hai.stanford.edu/policy/policy-brief-privacy-bias-trade" target="_blank" rel="noopener noreferrer" class="bi-bank btn btn-success" role="button"> Policy Brief</a>
 <a href="papers/upturn-omb_testimony-HSGAC.pdf" target="_blank" rel="noopener noreferrer" class="bi-geo-alt btn btn-primary" role="button"> In The Wild </a>
 
@@ -66,19 +64,19 @@ Why Watch The Watchers? Frame Utilization In Community Control Over Police Surve
 
 __Webley-Brown, H.__, Sipek, A., Buoymaster, K., Shivalkar, J., Owen, W., Manis, E. (2022). [ShotSpotter and the Misfires of Gunshot Detection Technology](https://www.stopspying.org/shotspotter). Surveillance Technology Oversight Project.
 
-<a href="papers/shotspotter.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-dark" role="button"> pdf</a>
+<a href="papers/shotspotter.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-danger" role="button"> pdf</a>
 <a href="papers/epic-doj.pdf" target="_blank" rel="noopener noreferrer" class="bi-geo-alt btn btn-primary" role="button"> In The Wild </a>
 
 <hr>
 
  Loshkajian, N., Van Doran, S., Melendi, J., Saran, S., __Webley-Brown, H.__, Manis, E. (2022). [Privatizing The Surveillance State: How Police Foundations Undermine Rule of Law](https://www.stopspying.org/privatizing-surveillance-state). Surveillance Technology Oversight Project.
 
-<a href="papers/privatizing-surveillance-state.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-dark" role="button"> pdf</a>
+<a href="papers/privatizing-surveillance-state.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-danger" role="button"> pdf</a>
 
 <hr>
 
 __Webley-Brown, H__. (2021). False Freedom: Exploring Clients’ Pretrial Experiences on Electronic Monitors. The Bail Project.
 
-<a href="papers/false-freedom.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-dark" role="button"> pdf</a>
+<a href="papers/false-freedom.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-danger" role="button"> pdf</a>
 <a href="papers/san-fran-em.pdf" target="_blank" rel="noopener noreferrer" class="bi-geo-alt btn btn-primary" role="button"> In The Wild </a>
 
