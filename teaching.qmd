@@ -18,7 +18,7 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 
 ## Teaching Assistant Experience
 
-### [[Fall 2024] Making Public Policy (Undergraduate)]{style="color:#005354"}
+#### [[Fall 2024] Making Public Policy (Undergraduate)]{style="color:#005354"}
 
 ::: {.callout-note collapse="true" icon=false}
 
@@ -36,7 +36,7 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 
 <hr>
 
-### [[Spring 2021] Quantitative Political Methodology (Undergraduate)]{style="color:#005354"}
+#### [[Spring 2021] Quantitative Political Methodology (Undergraduate)]{style="color:#005354"}
 
 ::: {.callout-note collapse="true" icon=false}
 
@@ -49,7 +49,7 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 
 <hr>
 
-### [[Spring 2020] Social Movements (Undergraduate)]{style="color:#005354"}
+#### [[Spring 2020] Social Movements (Undergraduate)]{style="color:#005354"}
 
 ::: {.callout-note collapse="true" icon=false}
 
