@@ -29,7 +29,7 @@ Even though I've been through two application cycles now and have some graduate 
 
 __2021/22 Cycle: Ph.D. in Political Science at MIT__
 
-In the 2021/22 cycle, I applied to 13 Ph.D. programs: 1 in information science, 7 political science, 3 in public policy, and 2 political science joint with policy. I received 6 acceptances (1 infosci, 3 polisci, 1 public policy, 1 joint polisci/policy) and 1 waitlist. Here are my materials for the offer I accepted, but please shoot me an email if you want to see what I wrote for one of the other disciplines.
+In the 2021/22 cycle, I applied to 13 Ph.D. programs: 1 information science, 7 political science, 3 public policy, and 2 political science joint with policy. I received 6 acceptances (1 infosci, 3 polisci, 1 public policy, 1 joint polisci/policy) and 1 waitlist. Here are my materials for the offer I accepted, but please shoot me an email if you want to see what I wrote for one of the other disciplines.
 
 <a href="papers/CV_MIT.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-danger" role="button"> CV/Resume </a>
 <a href="papers/SOP-MIT.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-primary" role="button"> Statement of Purpose</a>
@@ -51,18 +51,6 @@ Note: these are structured a little different than "normal," because I had to ex
 In each of these boxes, I've listed some readings that either: 1) helped me make sense of how my marginalized identities shaped my grad school experiences, or 2) provided me with insights into the hidden curriculum. If you get stuck behind an article's paywall, let me know and I'll try to send a link.
 
 Note: if you are an author listed here and would like to be removed---or an author not listed here and would like to be added---please feel free to shoot me an email!
-
-::: {.callout-note collapse="true" icon=false}
-
-## <i class="bi bi-bookmarks"></i> &nbsp; Books
-- Harris, J. L. (2024). [Black Women, Ivory Tower: Revealing the Lies of White Supremacy in American Education](https://www.drjasmineharris.com/book). Broadleaf Books.
-- Lindholm, M., and Wood, E. A. (Eds.). (2024). [Between Us: Healing Ourselves and Changing the World Through Sociology](https://press.uchicago.edu/ucp/books/book/chicago/B/bo215858659.html). University of Chicago Press.
-- Reyes, V. (2022). [Academic Outsider: Stories of Exclusion and Hope](https://www.sup.org/books/sociology/academic-outsider). Stanford Briefs.
-- Niemann, Y. F., Gutiérrez Y Muhs, G., and Gonzalez, C. G. (2020). [Presumed Incompetent II: Race, Class, Power, and Resistance of Women in Academia](https://upcolorado.com/utah-state-university-press/item/3794-presumed-incompetent-ii). Utah State University Press.
-- Ahmed, S. (2012). [On Being Included: Racism and Diversity in Institutional Life](https://www.dukeupress.edu/on-being-included). Duke University Press.
-:::
-
-
 
 ::: {.callout-note collapse="true" icon=false}
 
@@ -89,4 +77,14 @@ Note: if you are an author listed here and would like to be removed---or an auth
 - Silvia Kim (n.d.). [Assignment Guidelines, Templates, and Research/Writing Best Practices](https://sysilviakim.com/student/).
 - McAlister, M. (n.d.) [PhD Advice](https://melanimcalister.com/thinking-twice-about-grad-school/).
 - Bäckman, C. (n.d.) [Resources](https://sites.google.com/view/claesbackman/tips-for-phd-students).
+:::
+
+::: {.callout-note collapse="true" icon=false}
+
+## <i class="bi bi-bookmarks"></i> &nbsp; Books
+- Harris, J. L. (2024). [Black Women, Ivory Tower: Revealing the Lies of White Supremacy in American Education](https://www.drjasmineharris.com/book). Broadleaf Books.
+- Lindholm, M., and Wood, E. A. (Eds.). (2024). [Between Us: Healing Ourselves and Changing the World Through Sociology](https://press.uchicago.edu/ucp/books/book/chicago/B/bo215858659.html). University of Chicago Press.
+- Reyes, V. (2022). [Academic Outsider: Stories of Exclusion and Hope](https://www.sup.org/books/sociology/academic-outsider). Stanford Briefs.
+- Niemann, Y. F., Gutiérrez Y Muhs, G., and Gonzalez, C. G. (2020). [Presumed Incompetent II: Race, Class, Power, and Resistance of Women in Academia](https://upcolorado.com/utah-state-university-press/item/3794-presumed-incompetent-ii). Utah State University Press.
+- Ahmed, S. (2012). [On Being Included: Racism and Diversity in Institutional Life](https://www.dukeupress.edu/on-being-included). Duke University Press.
 :::
