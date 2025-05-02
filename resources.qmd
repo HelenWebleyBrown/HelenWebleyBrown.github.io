@@ -16,16 +16,14 @@ engine: knitr
 ## Overview
 
 ::: {.callout-tip appearance="minimal"}
-Even though I've been through two application cycles now and have some graduate training under my belt, there's still a ton of things I don't know, but I'm always happy to talk with people who are considering applying to graduate school or are already in a program (and maybe even considering leaving one like I did). 
-
-On this page, I've shared two types of resources. First, I've provided previous [application materials](resources.html#application-materials), specifically the CV, SOP, and PS that I submitted. Second, I've made suggested [reading lists](resources.html#reading-suggestions) featuring several scholars' insights into navigating academia. These resources have helped me along the way and I hope they prove helpful to others.
+There's a hidden curriculum that structures much of academic life. To lift as I climb, I've shared some of the resources that have helped me figure things out along the way. I hope they prove helpful to others. Below, you can read my motivation for this page and browse two types of resources. You'll find the [application materials](resources.html#application-materials) (CV, SOP, and PS) that I submitted to Ph.D. programs. I've also made [reading lists](resources.html#reading-suggestions) with several scholars' insights into navigating academia.
 :::
-
-There's a hidden curriculum that structures much of academic life. If you're not "in the know," you can lose out on various funding, mentorship, and learning opportunities. If you're "in the know," it is easier to overlook that things remains hidden to others and the advantages that played a role in them becoming unhidden to you. 
 
 "I don't even know what I don't know" has been a constant thought reverberating in my head throughout grad school. When I first started my Ph.D. (the first time around), I felt like I'd jumped out of a plane and been told to build a parachute on the way down. This challenge was exciting and the learning curve---while steep---was transformative. But, I started to look around and saw that some people had been given a high quality parachute before they jumped out the plane... and they seemed to think less of me for not having mine already built. Whenever I pointed this out to faculty, I'd get a response like "Skydiving is supposed to be hard," or "Building a parachute is intuitive. It's your job to build it on your own," or  "Are you sure this is about peoples' parachutes? Maybe you just shouldn't have jumped," or "Maybe we don't have many skydivers like you because they just don't enjoy building parachutes as much." 
 
 None of this sounded quite right to me, but I didn't know what to make of my experience. It took me a while to understand that: 1) the problem was the parachute policy, not me, and 2) building a parachute is easier when there are others around who have built/are currently building their own, and are willing to help you with yours.
+
+Even though I've been through two application cycles now and have some graduate training under my belt, there's still a ton of things I don't know, but I'm always happy to talk with people who are considering applying to graduate school or are already in a program (and maybe even considering leaving one like I did). 
 
 ## Application Materials
 
@@ -50,7 +48,7 @@ Note: these are structured a little different than "normal," because I had to ex
 
 ## Reading Suggestions
 
-In each of these boxes, I've listed some readings that either 1) helped me make sense of how my marginalized identities shaped my grad school experiences, or 2) provided me with insights into the hidden curriculum. If you get stuck behind an article's paywall, let me know and I'll try to send a link.
+In each of these boxes, I've listed some readings that either: 1) helped me make sense of how my marginalized identities shaped my grad school experiences, or 2) provided me with insights into the hidden curriculum. If you get stuck behind an article's paywall, let me know and I'll try to send a link.
 
 Note: if you are an author listed here and would like to be removed---or an author not listed here and would like to be added---please feel free to shoot me an email!
 
