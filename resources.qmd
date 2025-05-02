@@ -55,36 +55,36 @@ Note: if you are an author listed here and would like to be removed---or an auth
 ::: {.callout-note collapse="true" icon=false}
 
 ## <i class="bi bi-bookmarks"></i> &nbsp; Articles
+- Goodridge, L. (2022). [Professionalism as a Racial Construct](https://www.uclalawreview.org/professionalism-as-a-racial-construct/). UCLA Law Review.
+- James, A. (2017). [Sifting through the Madness: Navigating the Academy as a Black Woman PhD Student](https://activisthistory.com/2017/08/18/sifting-through-the-madness-navigating-the-academy-as-a-black-woman-phd-student/). The Activist History Review.
+- Key, E. M., and Sumner, J. L. (2019). [You Research Like a Girl: Gendered Research Agendas and Their Implications](https://doi.org/10.1017/S1049096519000945). PS: Political Science & Politics.
+- Matias, J. N., Lewis Jr., N., and Hope, E. (2021). [Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White?](https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/). FiveThirtyEight.
+- McMillan Cottom, T. (2013). [Blanket “Don’t Go To Graduate School!” Advice Ignores Race and Reality?](https://tressiemc.com/uncategorized/blanket-dont-go-to-graduate-school-advice-ignores-race-and-reality/).
 - Misra, J., Kane-Lee, E. S., Mickey, E., and Smith-Doerr, L. (2024). [“I don’t believe that I have been wanted”: Processes of Overinclusion and Exclusion in Racialized and Gendered Organizations](https://doi.org/10.1093/socpro/spae043). Social Problems.
 - Spoon, K., LaBerge, N., Wapman, K. H., Zhang, S., Morgan, A. C., Galesic, M., Fosdick, B. K., Larremore, D. B., and Clauset, A. (2023). [Gender and Retention Patterns Among U.S. Faculty](https://www.science.org/doi/10.1126/sciadv.adi2205). Science Advances.
-- Goodridge, L. (2022). [Professionalism as a Racial Construct](https://www.uclalawreview.org/professionalism-as-a-racial-construct/). UCLA Law Review.
-- Matias, J. N., Jr., N. L., and Hope, E. (2021). [Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White?](https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/). FiveThirtyEight.
-- Key, E. M., and Sumner, J. L. (2019). [You Research Like a Girl: Gendered Research Agendas and Their Implications](https://doi.org/10.1017/S1049096519000945). PS: Political Science & Politics.
-- James, A. (2017). [Sifting through the Madness: Navigating the Academy as a Black Woman PhD Student](https://activisthistory.com/2017/08/18/sifting-through-the-madness-navigating-the-academy-as-a-black-woman-phd-student/). The Activist History Review.
-- McMillan Cottom, T. (2013). [Blanket “Don’t Go To Graduate School!” Advice Ignores Race and Reality?](https://tressiemc.com/uncategorized/blanket-dont-go-to-graduate-school-advice-ignores-race-and-reality/).
 :::
 
 
 ::: {.callout-note collapse="true" icon=false}
 
 ## <i class="bi bi-bookmarks"></i> &nbsp; Blogs/Posts
-- Lee, C. (2023). [Guides to Academia](https://crystaljjlee.com/blog/guides-to-academia/).
-- Rucks-Ahidiana, Z. (n.d.). [Practical PhD: a transparent source for all things PhD](https://practicalphd.net/).
-- Laster Pirtle, W. N. (n.d.). [theSociologyPhDandMe](https://thesociologyphdandme.wordpress.com/).
-- Pacheco-Vega, R. (n.d.). [Blog](https://www.raulpacheco.org/blog/).
 - Antoniak, M. (n.d.). [Advice for Academia](https://www.are.na/maria-antoniak/advice-for-academia). See also: [PhD Applications FAQ](https://maria-antoniak.github.io/2020/11/27/phd-applications.html).
-- Wilson, S. (n.d.). [Advice](https://shomir.net/advice.html).
+- Bäckman, C. (n.d.). [Resources](https://sites.google.com/view/claesbackman/tips-for-phd-students).
+- Laster Pirtle, W. N. (n.d.). [theSociologyPhDandMe](https://thesociologyphdandme.wordpress.com/).
+- Lee, C. (2023). [Guides to Academia](https://crystaljjlee.com/blog/guides-to-academia/).
+- McAlister, M. (n.d.). [PhD Advice](https://melanimcalister.com/thinking-twice-about-grad-school/).
+- Pacheco-Vega, R. (n.d.). [Blog](https://www.raulpacheco.org/blog/).
+- Rucks-Ahidiana, Z. (n.d.). [Practical PhD: a transparent source for all things PhD](https://practicalphd.net/).
 - Silvia Kim (n.d.). [Assignment Guidelines, Templates, and Research/Writing Best Practices](https://sysilviakim.com/student/).
-- McAlister, M. (n.d.) [PhD Advice](https://melanimcalister.com/thinking-twice-about-grad-school/).
-- Bäckman, C. (n.d.) [Resources](https://sites.google.com/view/claesbackman/tips-for-phd-students).
+- Wilson, S. (n.d.). [Advice](https://shomir.net/advice.html).
 :::
 
 ::: {.callout-note collapse="true" icon=false}
 
 ## <i class="bi bi-bookmarks"></i> &nbsp; Books
+- Ahmed, S. (2012). [On Being Included: Racism and Diversity in Institutional Life](https://www.dukeupress.edu/on-being-included). Duke University Press.
 - Harris, J. L. (2024). [Black Women, Ivory Tower: Revealing the Lies of White Supremacy in American Education](https://www.drjasmineharris.com/book). Broadleaf Books.
 - Lindholm, M., and Wood, E. A. (Eds.). (2024). [Between Us: Healing Ourselves and Changing the World Through Sociology](https://press.uchicago.edu/ucp/books/book/chicago/B/bo215858659.html). University of Chicago Press.
-- Reyes, V. (2022). [Academic Outsider: Stories of Exclusion and Hope](https://www.sup.org/books/sociology/academic-outsider). Stanford Briefs.
 - Niemann, Y. F., Gutiérrez Y Muhs, G., and Gonzalez, C. G. (2020). [Presumed Incompetent II: Race, Class, Power, and Resistance of Women in Academia](https://upcolorado.com/utah-state-university-press/item/3794-presumed-incompetent-ii). Utah State University Press.
-- Ahmed, S. (2012). [On Being Included: Racism and Diversity in Institutional Life](https://www.dukeupress.edu/on-being-included). Duke University Press.
+- Reyes, V. (2022). [Academic Outsider: Stories of Exclusion and Hope](https://www.sup.org/books/sociology/academic-outsider). Stanford Briefs.
 :::
