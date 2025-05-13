@@ -58,8 +58,8 @@ Note: if you are an author listed here and would like to be removed---or an auth
 - Goodridge, L. (2022). [Professionalism as a Racial Construct](https://www.uclalawreview.org/professionalism-as-a-racial-construct/). UCLA Law Review.
 - James, A. (2017). [Sifting through the Madness: Navigating the Academy as a Black Woman PhD Student](https://activisthistory.com/2017/08/18/sifting-through-the-madness-navigating-the-academy-as-a-black-woman-phd-student/). The Activist History Review.
 - Key, E. M., and Sumner, J. L. (2019). [You Research Like a Girl: Gendered Research Agendas and Their Implications](https://doi.org/10.1017/S1049096519000945). PS: Political Science & Politics.
-- Matias, J. N., Lewis Jr., N., and Hope, E. (2021). [Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White?](https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/). FiveThirtyEight.
-- McMillan Cottom, T. (2013). [Blanket “Don’t Go To Graduate School!” Advice Ignores Race and Reality?](https://tressiemc.com/uncategorized/blanket-dont-go-to-graduate-school-advice-ignores-race-and-reality/).
+- Matias, J. N., Lewis Jr., N., and Hope, E. (2021). [Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White?](https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/) FiveThirtyEight.
+- McMillan Cottom, T. (2013). [Blanket “Don’t Go To Graduate School!” Advice Ignores Race and Reality?](https://tressiemc.com/uncategorized/blanket-dont-go-to-graduate-school-advice-ignores-race-and-reality/)
 - Misra, J., Kane-Lee, E. S., Mickey, E., and Smith-Doerr, L. (2024). [“I don’t believe that I have been wanted”: Processes of Overinclusion and Exclusion in Racialized and Gendered Organizations](https://doi.org/10.1093/socpro/spae043). Social Problems.
 - Spoon, K., LaBerge, N., Wapman, K. H., Zhang, S., Morgan, A. C., Galesic, M., Fosdick, B. K., Larremore, D. B., and Clauset, A. (2023). [Gender and Retention Patterns Among U.S. Faculty](https://www.science.org/doi/10.1126/sciadv.adi2205). Science Advances.
 :::
@@ -69,7 +69,9 @@ Note: if you are an author listed here and would like to be removed---or an auth
 
 ## <i class="bi bi-bookmarks"></i> &nbsp; Blogs/Posts
 - Antoniak, M. (n.d.). [Advice for Academia](https://www.are.na/maria-antoniak/advice-for-academia). See also: [PhD Applications FAQ](https://maria-antoniak.github.io/2020/11/27/phd-applications.html).
+- APSA Graduate Student Status Committee. (n.d.). [Virtual Workshop Series](https://connect.apsanet.org/graduate/virtual-workshop-series/).
 - Bäckman, C. (n.d.). [Resources](https://sites.google.com/view/claesbackman/tips-for-phd-students).
+- Elkins, Z. (n.d.). [Perspectives on the Craft of Writing](https://sites.google.com/site/zachelkinstexas/me-write-pretty-some-day?pli=1).
 - Kim, S. S. (n.d.). [Assignment Guidelines, Templates, and Research/Writing Best Practices](https://sysilviakim.com/student/).
 - Laster Pirtle, W. N. (n.d.). [theSociologyPhDandMe](https://thesociologyphdandme.wordpress.com/).
 - Lee, C. (2023). [Guides to Academia](https://crystaljjlee.com/blog/guides-to-academia/).
