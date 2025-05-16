@@ -32,3 +32,25 @@ a.btn {
   font-size: 0.75rem;
   padding: 0.25rem 0.48rem;
 }
+
+/* Make all hyperlinks cardinal red on hover */
+a:hover,
+.toc a:hover {
+  color: #C41E3A !important;
+}
+
+/* Hover color for ToC links */
+.sidebar nav[role="doc-toc"] ul > li > a:hover {
+  color: #C41E3A !important; /* Cardinal red */
+}
+
+/* Active section in ToC (highlighted as user scrolls) */
+.sidebar nav[role="doc-toc"] ul > li > a.active {
+  color: #008080 !important; /* Cardinal red */
+  font-weight: bold; /* Optional: highlight active */
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a.active {
+  border-left: 1.5px solid #008080 !important;  /* Cardinal red line */
+  padding-left: 0.5rem; /* Ensures spacing looks right */
+}
