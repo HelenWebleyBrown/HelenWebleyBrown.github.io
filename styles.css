@@ -33,11 +33,12 @@ a.btn {
   padding: 0.25rem 0.48rem;
 }
 
-/* Make all hyperlinks cardinal red on hover */
-a:hover,
+/* Make regular hyperlinks (but not buttons) cardinal red on hover */
+a:not(.btn):hover,
 .toc a:hover {
   color: #C41E3A !important;
 }
+
 
 /* Hover color for ToC links */
 .sidebar nav[role="doc-toc"] ul > li > a:hover {
