@@ -77,6 +77,7 @@ Note: if you are an author listed here and would like to be removed---or an auth
 - Lee, C. (2023). [Guides to Academia](https://crystaljjlee.com/blog/guides-to-academia/).
 - McAlister, M. (n.d.). [PhD Advice](https://melanimcalister.com/thinking-twice-about-grad-school/).
 - Pacheco-Vega, R. (n.d.). [Blog](https://www.raulpacheco.org/blog/).
+- Peterson, M. (n.d.). [The Art of Academic Writing](https://sites.google.com/site/writingwithpete/).
 - Rucks-Ahidiana, Z. (n.d.). [Practical PhD: a transparent source for all things PhD](https://practicalphd.net/).
 - Wilson, S. (n.d.). [Advice](https://shomir.net/advice.html).
 :::

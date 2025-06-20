@@ -11,7 +11,7 @@ about:
       href: /papers/CV_HWebleyBrown.pdf
     - icon: envelope-at-fill
       text: Email
-      href: "mailto:hwbrown@stanford.edu"
+      href: "mailto:helenwb@stanford.edu"
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/helenwebley-brown/
