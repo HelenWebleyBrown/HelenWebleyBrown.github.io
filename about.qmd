@@ -18,6 +18,9 @@ about:
     - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
       href: https://bsky.app/profile/helenwb.bsky.social
 toc: false
+website:
+  description: "Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality."
+  google-site-verification: "awhCG90OuinCNn1cCOCudHdqQGQzZ92Y5B0rHoeilgM"
 ---
 
 ## About
