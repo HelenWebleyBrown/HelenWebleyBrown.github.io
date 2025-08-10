@@ -19,7 +19,7 @@ about:
       href: https://bsky.app/profile/helenwb.bsky.social
 ---
 
-Hello -- my name is **Helen Webley-Brown**. I am a __Research Officer__ at __LSE__'s Phelan United States Centre and a __Research Assistant__ at the __Oxford Internet Institute__. In fall 2025, I'll begin my Ph.D. in Sociology at Stanford University.
+Hello -- my name is Helen Webley-Brown. I am a first-year sociology PhD student and CCSRE Emerging Scholar at Stanford University.
 
 You can read more about my academic journey on my [about](about.qmd) page and [teaching](teaching.qmd) page. 
 
@@ -31,11 +31,11 @@ I'm also always happy to talk with people who are considering applying to gradua
 
 ## <i class="bi bi-lightning"></i> &nbsp; Research Interests
 
-local U.S. politics | criminal legal system | AI in state/local government services
+local U.S. politics | carceral state | AI in government services
 :::
 
-<meta name="description" content="Helen Webley-Brown is a Research Officer at LSE’s Phelan United States Centre and a Research Assistant at the Oxford Internet Institute." />
+<meta name="description" content="Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality." />
 
 <meta name="google-site-verification" content="awhCG90OuinCNn1cCOCudHdqQGQzZ92Y5B0rHoeilgM" />
 
-<meta property="og:description" content="Helen Webley-Brown is a Research Officer at LSE’s Phelan United States Centre and a Research Assistant at the Oxford Internet Institute." />
+<meta property="og:description" content="Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality." />
