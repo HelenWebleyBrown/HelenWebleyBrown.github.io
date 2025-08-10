@@ -17,6 +17,9 @@ about:
       href: https://www.linkedin.com/in/helenwebley-brown/
     - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
       href: https://bsky.app/profile/helenwb.bsky.social
+website:
+  description: "Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality."
+  google-site-verification: "awhCG90OuinCNn1cCOCudHdqQGQzZ92Y5B0rHoeilgM"
 ---
 
 Hello -- my name is Helen Webley-Brown. I am a first-year sociology PhD student and CCSRE Emerging Scholar at Stanford University.
@@ -34,8 +37,7 @@ I'm also always happy to talk with people who are considering applying to gradua
 local political economy of AI | racial inequality | poverty governance | public opinion
 :::
 
-<meta name="description" content="Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality." />
 
 <meta name="google-site-verification" content="awhCG90OuinCNn1cCOCudHdqQGQzZ92Y5B0rHoeilgM" />
 
-<meta property="og:description" content="Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality." />
+<meta name="og:description" content="Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality." />
