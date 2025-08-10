@@ -30,6 +30,6 @@ In between leaving MIT and (re)starting my doctoral training at Stanford, I was 
 
 <meta name="description" content="Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality." />
 
-<meta name="google-site-verification=QuWDCtKWI4uwOTQyEnptJAQej1Q0mb4mnej3wErj0Bs" />
+<meta name="google-site-verification" content="awhCG90OuinCNn1cCOCudHdqQGQzZ92Y5B0rHoeilgM" />
 
 <meta property="og:description" content="Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality." />
