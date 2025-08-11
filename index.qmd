@@ -24,7 +24,7 @@ website:
 
 Hello, my name is Helen Webley-Brown. I am a first-year sociology PhD student and CCSRE Emerging Scholar at Stanford University.
 
-You can learn about my academic journey on my [about](about.qmd) page and [teaching](teaching.qmd) page. 
+You can learn about my academic journey on the [about](about.qmd) page and [teaching](teaching.qmd) page. 
 
 If the ideas on my [research](research.qmd) page interest you, please feel free to reach out to talk more about them or explore possible collaborations. I'm also always happy to talk with people who are considering applying to graduate school. You'll find my previous application materials on my [resources](resources.qmd) page alongside some suggested reading materials on navigating academia.
 
