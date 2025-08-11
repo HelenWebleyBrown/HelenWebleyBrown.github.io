@@ -22,22 +22,20 @@ website:
   google-site-verification: "awhCG90OuinCNn1cCOCudHdqQGQzZ92Y5B0rHoeilgM"
 ---
 
-Hello -- my name is Helen Webley-Brown. I am a first-year sociology PhD student and CCSRE Emerging Scholar at Stanford University.
+Hello, my name is Helen Webley-Brown. I am a first-year sociology PhD student and CCSRE Emerging Scholar at Stanford University.
 
-You can read more about my academic journey on my [about](about.qmd) page and [teaching](teaching.qmd) page. 
+You can learn about my academic journey on my [about](about.qmd) page and [teaching](teaching.qmd) page. 
 
-If the ideas on my [research](research.qmd) page interest you, please feel free to reach out to talk more about them or explore possible collaborations. 
-
-I'm also always happy to talk with people who are considering applying to graduate school. You'll find my previous application materials on my [resources](resources.qmd) page alongside some suggested reading materials on navigating academia.
+If the ideas on my [research](research.qmd) page interest you, please feel free to reach out to talk more about them or explore possible collaborations. I'm also always happy to talk with people who are considering applying to graduate school. You'll find my previous application materials on my [resources](resources.qmd) page alongside some suggested reading materials on navigating academia.
 
 ::: {.callout-note appearance="default" icon=false}
 
 ## <i class="bi bi-lightning"></i> &nbsp; Research Interests
 
-local political economy of AI | racial inequality | poverty governance | public opinion
+local political economy of AI | racial inequality | poverty governance | policy feedback
 :::
 
 
 <meta name="google-site-verification" content="awhCG90OuinCNn1cCOCudHdqQGQzZ92Y5B0rHoeilgM" />
 
-<meta name="og:description" content="Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality." />
+<meta name="description" content="Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality." />
