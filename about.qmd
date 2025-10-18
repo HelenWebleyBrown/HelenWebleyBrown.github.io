@@ -1,6 +1,6 @@
 ---
 title: ""
-image: square-website-pic.jpg
+image: stanford-website-pic.jpg
 about:
   template: trestles
   image-width: 13em
