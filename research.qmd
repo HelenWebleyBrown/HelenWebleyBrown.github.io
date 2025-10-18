@@ -50,6 +50,10 @@ An emerging concern in algorithmic fairness is the tension with privacy interest
 <a href="https://hai.stanford.edu/policy/policy-brief-privacy-bias-trade" target="_blank" rel="noopener noreferrer" class="bi-bank btn btn-success" role="button"> Policy Brief</a>
 <a href="papers/upturn-omb_testimony-HSGAC.pdf" target="_blank" rel="noopener noreferrer" class="bi-geo-alt btn btn-primary" role="button"> In The Wild </a>
 
+## Working Papers
+
+Divisions at Home, Broken Promises Abroad? How Domestic Politics Shapes the United States' Nuclear Credibility (with Lauren Sukin). [*Revise and Resubmit at International Studies Quarterly.*]{style="color:teal"}
+
 ## Works in Progress
 
 We've Got Democracy at Home: Resident Council Emergence in Public Housing Developments.
