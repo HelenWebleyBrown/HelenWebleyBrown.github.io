@@ -25,8 +25,8 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
   <div markdown="1"
        style="margin-top:2px;
               padding:6px 6px;
-              background-color:#ebf9f8;
-              border:1px solid #80c9c3;
+              background-color:#f0f7f7;
+              border:0px;
               border-radius:2px;
               display:inline-block;">
 <ul style="margin:0; padding-left:1.1rem; list-style-position:outside;">
@@ -53,9 +53,9 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
   <summary>Details (click to expand)</summary>
   <div markdown="1"
        style="margin-top:2px;
-              padding:6px 6px; /* tighter sides */
-              background-color:#ebf9f8;
-              border:1px solid #80c9c3;
+              padding:6px 6px;
+              background-color:#f0f7f7;
+              border:0px;
               border-radius:2px;
               display:inline-block;">
 <ul style="margin:0; padding-left:1.1rem; list-style-position:outside;">
@@ -73,9 +73,9 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
   <summary>Details (click to expand)</summary>
   <div markdown="1"
        style="margin-top:2px;
-              padding:6px 6px; /* tighter sides */
-              background-color:#ebf9f8;
-              border:1px solid #80c9c3;
+              padding:6px 6px;
+              background-color:#f0f7f7;
+              border:0px;
               border-radius:2px;
               display:inline-block;">
 <ul style="margin:0; padding-left:1.1rem; list-style-position:outside;">
