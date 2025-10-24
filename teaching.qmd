@@ -21,26 +21,48 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 #### [[Fall 2024] Making Public Policy (Undergraduate)]{style="color:#005354"}
 
 <details>
-<summary> Details (click to expand)</summary>
-
-- **Institution:** Massachusetts Institute of Technology (MIT)
-- **Instructor:** Prof. Andrea Campbell
-- **Teaching Assistant Evaluation:** 6.8 out of 7
-
-- **Student comments:**
-  + "Ms. Webley-Brown's recitation is incredibly engaging, interactive, and supportive. She is very kind and will always be happy to help and answer questions."
-  + "Helen was both an incredible TA and such a kind person overall. Her comments helped to genuinely improve my writing and her recitations were engaging in a way that I had never experienced from a recitation before."
+  <summary>Details (click to expand)</summary>
+  <div markdown="1"
+       style="margin-top:2px;
+              padding:6px 6px;
+              background-color:#ebf9f8;
+              border:1px solid #80c9c3;
+              border-radius:2px;
+              display:inline-block;">
+<ul style="margin:0; padding-left:1.1rem; list-style-position:outside;">
+  <li><strong>Institution:</strong> Massachusetts Institute of Technology (MIT)</li>
+  <li><strong>Instructor:</strong> Prof. Andrea Campbell</li>
+  <li><strong>Teaching Assistant Evaluation:</strong> 6.8 out of 7</li>
+  <li><strong>Student comments:</strong>
+    <ul style="margin-top:4px; margin-bottom:0; padding-left:1.1rem; list-style-type:circle;">
+      <li>"Ms. Webley-Brown's recitation is incredibly engaging, interactive, and supportive. She is very kind and will always be happy to help and answer questions."</li>
+      <li>"Helen was both an incredible TA and such a kind person overall. Her comments helped to genuinely improve my writing and her recitations were engaging in a way that I had never experienced from a recitation before."</li>
+    </ul>
+  </li>
+</ul>
+  </div>
 </details>
+
+
 
 <hr>
 
 #### [[Spring 2021] Quantitative Political Methodology (Undergraduate)]{style="color:#005354"}
 
 <details>
-<summary> Details (click to expand) </summary>
-
-- **Institution:** Washington University in St. Louis (WashU)
-- **Instructor:** Prof. Christopher Lucas
+  <summary>Details (click to expand)</summary>
+  <div markdown="1"
+       style="margin-top:2px;
+              padding:6px 6px; /* tighter sides */
+              background-color:#ebf9f8;
+              border:1px solid #80c9c3;
+              border-radius:2px;
+              display:inline-block;">
+<ul style="margin:0; padding-left:1.1rem; list-style-position:outside;">
+<li><strong>Institution:</strong> Washington University in St. Louis (WashU)</li>
+<li style="margin-bottom:0;"><strong>Instructor:</strong> Prof. Christopher Lucas</li>
+</ul>
+  </div>
 </details>
 
 <hr>
@@ -48,9 +70,17 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 #### [[Spring 2020] Social Movements (Undergraduate)]{style="color:#005354"}
 
 <details>
-<summary> Details (click to expand)</summary>
-
-- **Institution:** Washington University in St. Louis (WashU)
-- **Instructor:** Prof. Sarah Gaby 
+  <summary>Details (click to expand)</summary>
+  <div markdown="1"
+       style="margin-top:2px;
+              padding:6px 6px; /* tighter sides */
+              background-color:#ebf9f8;
+              border:1px solid #80c9c3;
+              border-radius:2px;
+              display:inline-block;">
+<ul style="margin:0; padding-left:1.1rem; list-style-position:outside;">
+<li><strong>Institution:</strong> Washington University in St. Louis (WashU)</li>
+<li style="margin-bottom:0;"><strong>Instructor:</strong> Prof. Sarah Gaby</li>
+</ul>
+  </div>
 </details>
-
