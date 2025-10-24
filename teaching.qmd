@@ -20,9 +20,8 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 
 #### [[Fall 2024] Making Public Policy (Undergraduate)]{style="color:#005354"}
 
-::: {.callout-note collapse="true" icon=false}
-
-## <i class="bi bi-lightning"></i> &nbsp; Details
+<details>
+<summary> Details (click to expand)</summary>
 
 - **Institution:** Massachusetts Institute of Technology (MIT)
 - **Instructor:** Prof. Andrea Campbell
@@ -31,32 +30,27 @@ My personal background has greatly shaped my commitment to inclusive pedagogy an
 - **Student comments:**
   + "Ms. Webley-Brown's recitation is incredibly engaging, interactive, and supportive. She is very kind and will always be happy to help and answer questions."
   + "Helen was both an incredible TA and such a kind person overall. Her comments helped to genuinely improve my writing and her recitations were engaging in a way that I had never experienced from a recitation before."
-  
-:::
+</details>
 
 <hr>
 
 #### [[Spring 2021] Quantitative Political Methodology (Undergraduate)]{style="color:#005354"}
 
-::: {.callout-note collapse="true" icon=false}
-
-## <i class="bi bi-lightning"></i> &nbsp; Details
+<details>
+<summary> Details (click to expand) </summary>
 
 - **Institution:** Washington University in St. Louis (WashU)
 - **Instructor:** Prof. Christopher Lucas
-
-:::
+</details>
 
 <hr>
 
 #### [[Spring 2020] Social Movements (Undergraduate)]{style="color:#005354"}
 
-::: {.callout-note collapse="true" icon=false}
-
-## <i class="bi bi-lightning"></i> &nbsp; Details
+<details>
+<summary> Details (click to expand)</summary>
 
 - **Institution:** Washington University in St. Louis (WashU)
-- **Instructor:** Prof. Sarah Gaby
-
-:::
+- **Instructor:** Prof. Sarah Gaby 
+</details>
 
