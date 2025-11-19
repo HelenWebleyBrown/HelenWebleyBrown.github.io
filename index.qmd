@@ -31,8 +31,8 @@ If the ideas on my [research](research.qmd) page interest you, please feel free 
 ::: {.callout-note appearance="default" icon=false}
 
 ## <i class="bi bi-lightning"></i> &nbsp; Research Interests
-
-local political economy of AI | racial inequality | poverty governance | policy feedback
+- The socio-political effects of interacting with local political institutions, focusing on [**police departments**]{style="color:teal"} and [**public housing authorities**]{style="color:teal"}.
+- How [**relationships between technology companies and local institutions**]{style="color:teal"} change the way people experience and perceive the state.
 :::
 
 
