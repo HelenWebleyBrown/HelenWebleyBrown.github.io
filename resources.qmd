@@ -43,7 +43,7 @@ In the 2024/25 cycle, I applied to 14 Ph.D. programs: 5 political science, 1 pol
 Note: these are structured a little different than "normal," because I had to explain why I was leaving a Ph.D. program and why I wanted to switch disciplines.
 
 <a href="papers/CV_Stanford.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-danger" role="button"> CV/Resume </a>
-<a href="papers/SOP-Stanford.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-primary" role="button"> Statement of Purpose</a>
+<a href="papers/SOP_Stanford.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-primary" role="button"> Statement of Purpose</a>
 <a href="papers/PS_Stanford.pdf" target="_blank" rel="noopener noreferrer" class="bi-file-earmark-pdf-fill btn btn-success" role="button"> Personal Statement </a>
 
 ## Reading Suggestions
