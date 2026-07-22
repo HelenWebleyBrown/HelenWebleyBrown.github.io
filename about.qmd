@@ -19,13 +19,13 @@ about:
       href: https://bsky.app/profile/helenwb.bsky.social
 toc: false
 website:
-  description: "Helen Webley-Brown is a first-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality."
+  description: "Helen Webley-Brown is a second-year sociology PhD student at Stanford studying surveillance tech, local politics, and racial inequality."
   google-site-verification: "awhCG90OuinCNn1cCOCudHdqQGQzZ92Y5B0rHoeilgM"
 ---
 
 ## About
 
-I am a first-year sociology PhD student at Stanford University. I am also a Stanford [CCSRE Emerging Scholar](https://ccsre.stanford.edu/programs/ccsre-emerging-scholars) and an affiliate of the [Center for American Political Studies](https://caps.gov.harvard.edu/) at Harvard University. Substantively, I research topics related to technology companies, local politics, and inequality. Methodologically, I use quantitative methods to tackle both descriptive and causal questions, often leveraging large administrative datasets and survey experiments.
+I am a second-year sociology PhD student at Stanford University. I am also a Stanford [CCSRE Emerging Scholar](https://ccsre.stanford.edu/programs/ccsre-emerging-scholars) and an affiliate of the [Center for American Political Studies](https://caps.gov.harvard.edu/) at Harvard University. Substantively, I research topics related to technology companies, local politics, and inequality. Methodologically, I use quantitative methods to tackle both descriptive and causal questions, often leveraging large administrative datasets and survey experiments.
 
 Although my research focuses on the US, I was born and raised in London, England. I have lived in the US for the past seven years and first moved across the pond for undergrad via the US-UK Fulbright Commission's wonderful [Sutton Trust US Programme](https://us.suttontrust.com/). In 2022, I graduated from Washington University in St. Louis with an A.B. in Political Science. In 2025, I mastered out of MIT's Political Science Ph.D. program, earning an S.M. in Political Science. I reapplied to Ph.D. programs that same year. 
 
